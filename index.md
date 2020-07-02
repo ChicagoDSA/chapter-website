@@ -7,9 +7,4 @@ subhead: We are creating a more equitable world by establishing socialism as a p
 
 ### Campaigns
 
-{% capture include_content %}
-{% include tile.html title="Defund CPD" link="another-page" image="assets/images/police.png" %}
-{% include tile.html title="Lift the Ban" link="another-page" image="assets/images/protest.png" %}
-{% endcapture %}
-
-{% include tile-list.html content=include_content %}
+{% include tile-list.html collection="campaigns" %}
