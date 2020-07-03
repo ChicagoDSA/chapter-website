@@ -22,7 +22,8 @@ defaults:
     values:
       image: "assets/images/og-image.png"
 
-# Create collections here
+# Add collections here
+# https://jekyllrb.com/docs/collections/
 collections:
   campaigns:
     output: true
