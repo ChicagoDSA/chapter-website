@@ -20,6 +20,7 @@ defaults:
     scope:
       path: "" # All files
     values:
+      layout: default
       image: "assets/images/og-image.png"
 
 # Add collections here
