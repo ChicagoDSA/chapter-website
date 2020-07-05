@@ -8,6 +8,6 @@ subhead: We are creating a more equitable world by establishing socialism as a p
 
 {% include tile-list.html collection="campaigns" %}
 
-## Upcoming Events
+## [Upcoming Events](events)
 
 {% include event-list.html calendar="ksc3uaa38o41o2vz8o" limit=2 %}
