@@ -1,4 +1,4 @@
 # Chapter Website
-Prototype for a new chicagodsa.org.
+Prototype for a new [chicagodsa.org](https://www.chicagodsa.org/).
 
-This site uses [Haymarket](https://github.com/ChicagoDSA/haymarket) and is the primary driver of that theme's feature development.
+This site uses the [Haymarket](https://github.com/ChicagoDSA/haymarket) theme.
