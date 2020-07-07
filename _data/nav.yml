@@ -1,0 +1,12 @@
+elements:
+  - group: "Our work"
+    items:
+      - page: "Campaigns"
+        url: campaigns
+      - page: "Working Groups"
+        url: working-groups
+  - group: "Member resources"
+    items:
+      - page: "New Members"
+        url: new-members
+        
