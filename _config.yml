@@ -2,7 +2,6 @@ title: Chicago DSA
 description: The official website of the Chicago chapter of the Democratic Socialists of America.
 chapter:
   name: Chicago DSA
-  location: Chicago
   url:
   facebook: https://www.facebook.com/ChicagoDemSocialists/
   instagram: https://www.instagram.com/chicagodsa/
@@ -11,7 +10,7 @@ custom-join: join
 google_analytics:
 teamup: "cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a"
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v1.3.1
+remote_theme: ChicagoDSA/haymarket@v1.3.2
 
 # Leave empty to disable
 banner:
