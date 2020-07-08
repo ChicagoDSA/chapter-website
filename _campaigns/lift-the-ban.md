@@ -1,5 +1,4 @@
 ---
-order: 2
 title: Lift the Ban
 image: assets/images/theme-protest.png
 ---
@@ -10,4 +9,4 @@ The Lift the Ban Coalition consists of more than 30 groups that believe rent con
 
 The CDSA Lift the Ban campaign focuses on canvassing neighborhoods, lobbying local and state politicians and educating the public to build the movement for housing justice.
 
-{% include button.html text="View Lift the Ban's website" link="https://www.ltbcoalition.org/" %}
+{% include button.html text="Visit Lift the Ban's website" link="https://www.ltbcoalition.org/" %}
