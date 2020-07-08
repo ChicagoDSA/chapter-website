@@ -4,4 +4,3 @@ description: DSA organizes and supports several active campaigns in the Chicago 
 ---
 
 {% include tile-list.html collection="campaigns" %}
-

@@ -11,5 +11,4 @@ The heart of Chicago DSA is our working groups. Through these small groups, we p
 
 Find more information about them below, and check out our [upcoming events](/events) to find out when the next meeting is!
 
-- [Housing Working Group](housing-working-group)
-- [Socialist Feminist Working Group](socialist-feminist-working-group)
+{% include tile-list.html collection="working-groups" %}
