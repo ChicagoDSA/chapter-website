@@ -30,3 +30,5 @@ defaults:
 collections:
   campaigns:
     output: true
+  working-groups:
+    output: true
