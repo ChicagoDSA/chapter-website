@@ -10,7 +10,7 @@ custom-join: join
 google_analytics:
 teamup: "cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a"
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v1.4.1
+remote_theme: ChicagoDSA/haymarket@v1.4.2
 
 # Leave empty to disable
 banner:
