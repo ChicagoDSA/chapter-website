@@ -14,7 +14,7 @@ remote_theme: ChicagoDSA/haymarket@v1.4.2
 
 # Leave empty to disable
 banner:
-  text: "**Here's a banner:** you can turn it off/on, add styling, and link to other pages"
+  text: "**Defund CPD endorsed:** read the Executive Committee's statement"
   link: another-page
 
 defaults:
