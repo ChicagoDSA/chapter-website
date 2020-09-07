@@ -12,5 +12,5 @@ Pages within a collection, such as **Campaigns**, live in their own folders.
 - `_campaigns` contains the Markdown files that generate individual campaign pages.
 - Generated URL: `my-website.org/collection-name-without-underscore/page-name/`
 
-Single pages, such as **Join DSA**, live in the `_pages` folder.
+Single pages, such as **New Members**, live in the `_pages` folder.
 - Generated URL: `my-website.org/page-name/`
