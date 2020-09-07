@@ -1,6 +1,7 @@
 ---
 order: 1
 title: Lift the Ban
-image: assets/images/theme-protest.png
-image-description: Protestors march down a major Chicago street. One sign reads "Hunger March."
+image: images/Daley-Plaza.png
+image-description: Coalition protesters occupied Daley Plaza in August 2020.
+image-credit: Sarah-Ji
 ---
