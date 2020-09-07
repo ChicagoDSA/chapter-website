@@ -6,11 +6,18 @@ chapter:
   facebook: https://www.facebook.com/ChicagoDemSocialists/
   instagram: https://www.instagram.com/chicagodsa/
   twitter: https://twitter.com/ChicagoCityDSA
+  # Override DSA national logos
+  header-logo-svg: "images/CDSA-logo-color.svg"
+  header-logo-png-fallback: "images/CDSA-logo-color.png" # 360px square recommended
+  background-logo-svg: "images/CDSA-logo-reverse.svg"
+  background-logo-png-fallback: "images/CDSA-logo-reverse.png" # 1440px square recommended
+  # Alt text for screen readers
+  logo-description: A CTA train and the Sears Tower are in front of a rose.
 custom-join: join
 google_analytics:
 teamup: "cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a"
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v1.5.0
+remote_theme: ChicagoDSA/haymarket@v1.5.1
 
 # Leave empty to disable
 banner:
