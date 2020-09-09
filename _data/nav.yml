@@ -3,8 +3,6 @@ elements:
     items:
       - page: "Campaigns"
         url: campaigns
-      - page: "Working Groups"
-        url: working-groups
   - group: "Member resources"
     items:
       - page: "Branches"
