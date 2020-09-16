@@ -4,7 +4,7 @@ This site uses the [Haymarket](https://github.com/ChicagoDSA/haymarket) theme.
 
 ## Updating content
 
-The homepage can be edited by opening `index.md` and clicking on the `Edit this file` button.
+The homepage can be edited by opening `_homepage/en/index.md` and clicking on the `Edit this file` button.
 - It's written in Markdown.
 - [Here's a 2-page PDF that contains syntax examples](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
