@@ -1,7 +1,7 @@
 ---
 layout: default
 lang-ref: another-page
-title: Another Page
+title: Another page
 ---
 
-### Another Page
+### Another page
