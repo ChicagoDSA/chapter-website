@@ -21,10 +21,10 @@ elements:
             es: es/ramas
       - page:
           en: New members
-          es: Nuevas miembros
+          es: Nuevos miembros
           url:
             en: new-members
-            es: es/nuevas-miembros
+            es: es/nuevos-miembros
 
 credits: 
   this-site-was-made-by:

@@ -20,6 +20,6 @@ If you want to participate in working groups and vote on chapter issues, you nee
 
 ## I just joined. What now?
 
-Welcome! Check our [upcoming events](../events) for the next New Member Orientation. And keep an eye out for a text message from our **Rose Buddy** program! Rose Buddies are experienced comrades that help new members find their footing. 
+Welcome! Check our [upcoming events](../events) for the next new member orientation. And keep an eye out for a text message from our **Rose Buddy** program! Rose Buddies are experienced comrades that help new members find their footing. 
 
 {% include comp-button.html text="See all new member resources" link="../new-members" %}
