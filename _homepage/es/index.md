@@ -1,6 +1,6 @@
 ---
 lang-ref: homepage
-title: Bienvenidas
+title: Bienvenidos
 headline: Somos los Socialistas Demócratas de América
 subhead: Estamos creando un mundo más equitativo al establecer el socialismo como fuerza política. Creemos que nuestros gobiernos y nuestra economía deben operar, a través de la propiedad social, en beneficio de todos.
 image: images/March-for-Healthcare-Justice.png
