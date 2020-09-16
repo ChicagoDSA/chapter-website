@@ -25,4 +25,12 @@ elements:
           url:
             en: new-members
             es: es/nuevas-miembros
+
+join:
+  text:
+    en: Join DSA
+    es: Únase a DSA
+  link: # Override DSA national link
+    en: join
+    es: es/unase
         
