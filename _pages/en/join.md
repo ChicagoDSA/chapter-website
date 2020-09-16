@@ -1,4 +1,5 @@
 ---
+lang-ref: join
 title: Join DSA
 description: Become a member. Together, we can build a better world.
 ---

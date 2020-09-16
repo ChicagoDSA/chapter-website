@@ -1,7 +1,4 @@
-title: Chicago DSA
-description: The official website of the Chicago chapter of the Democratic Socialists of America.
 chapter:
-  name: Chicago DSA
   url:
   facebook: https://www.facebook.com/ChicagoDemSocialists/
   instagram: https://www.instagram.com/chicagodsa/
@@ -11,33 +8,67 @@ chapter:
   header-logo-png-fallback: "images/CDSA-logo-color.png" # 360px square recommended
   background-logo-svg: "images/CDSA-logo-reverse.svg"
   background-logo-png-fallback: "images/CDSA-logo-reverse.png" # 1440px square recommended
-  # Alt text for screen readers
-  logo-description: A CTA train and the Sears Tower are in front of a rose.
 custom-join: join
 google_analytics:
-teamup: "cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a"
+teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v1.5.8
+remote_theme: ChicagoDSA/haymarket@v1.6.0
 
-# Leave empty to disable
-banner:
-  text: "**Defund CPD endorsed:** read the Executive Committee's statement"
-  link: another-page
-
+# Set default front matter for Markdown files
 defaults:
   -
     scope:
       path: "" # All files
     values:
       layout: default
-      image: "assets/images/og-image.png"
+      image: assets/images/og-image.png
+      lang: en
 
-# Add collections here
+  # Set URLs and language code for collections
+  # English   
+  -
+    scope:
+      path: _homepage/en/index.md
+    values:
+      permalink: / # Set as index
+  -
+    scope:
+      path: _pages/en
+    values:
+      permalink: /:title
+  -
+    scope:
+      path: _campaigns/en
+    values:
+      permalink: campaigns/:title
+  # Spanish
+  -
+    scope:
+      path: _homepage/es/index.md
+    values:
+      permalink: /es/
+      lang: es
+  -
+    scope:
+      path: _pages/es
+    values:
+      permalink: es/:title # language-specific folder
+      lang: es
+  -
+    scope:
+      path: _campaigns/es
+    values:
+      permalink: es/campanas/:title # language-specific folder
+      lang: es
+
+# Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
 collections:
+  # Homepage translations
+  homepage:
+    output: true
   # Add single pages in the _pages folder
   pages:
     output: true
-    permalink: /:path/ # These page URLs start at site root
   campaigns:
     output: true

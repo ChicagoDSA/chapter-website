@@ -1,12 +1,28 @@
 elements:
-  - group: "Our work"
+  - group: 
+    en: Our work
+    es: Nuestro trabajo
     items:
-      - page: "Campaigns"
-        url: campaigns
-  - group: "Member resources"
+      - page:
+          en: Campaigns
+          es: Campañas
+          url: 
+            en: campaigns
+            es: es/campanas
+  - group:
+    en: Member resources
+    es: Recursos para miembros
     items:
-      - page: "Branches"
-        url: branches
-      - page: "New Members"
-        url: new-members
+      - page:
+          en: Branches
+          es: Ramas
+          url:
+            en: branches
+            es: es/ramas
+      - page:
+          en: New members
+          es: Nuevas miembros
+          url:
+            en: new-members
+            es: es/nuevas-miembros
         

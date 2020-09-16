@@ -1,4 +1,5 @@
 ---
+lang-ref: campaigns
 title: Campaigns
 description: DSA organizes and supports several active campaigns in the Chicago area.
 ---
