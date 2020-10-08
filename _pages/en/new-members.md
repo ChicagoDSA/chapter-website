@@ -3,7 +3,7 @@ layout: default
 lang-ref: new-members
 title: New members
 description: Resources to help new Chicago DSA members get oriented.
-subhead: You've joined! Let's find a movement home.
+subhead: You've joined! Let's find a local home.
 image: images/Union-Square.png
 image-description: Socialists protest in Union Square, New York.
 image-credit: Library of Congress

@@ -3,7 +3,7 @@ layout: default
 lang-ref: new-members
 title: Nuevos miembros
 description: Recursos para ayudar a los nuevos miembros de DSA de Chicago a orientarse.
-subhead: ¡Te has registrado! Busquemos un hogar en nuestro movimiento.
+subhead: ¡Te has registrado! Busquemos un hogar local.
 image: images/Union-Square.png
 image-description: Los socialistas protestan en Union Square, Nueva York.
 image-credit: Biblioteca del Congreso
