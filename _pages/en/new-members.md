@@ -11,11 +11,11 @@ image-credit: Library of Congress
 
 ## Attend a new member orientation
 
-On the last Wednesday of every month, Chicago DSA hosts an orientation call on Zoom. Chapter members answer questions like:
+On the last Wednesday of every month, Chicago DSA hosts an orientation call on Zoom. Chapter members will discuss:
 
-- What is democratic socialism? 
-- What is DSA, and how is our chapter structured?
-- How can I get involved?
+- The basics of democratic socialism 
+- DSA's national and local structures
+- Ways to get involved
 
 Representatives from our [campaigns](campaigns) and [working groups](working-groups) will present their work, invite folks to join, and collect names.
 
@@ -27,6 +27,6 @@ After attending an orientation, you're eligible to join Rose Buddies. Over a thr
 
 - Schedule check-ins
 - Answer your questions
-- Connect you with activities and more comrades!
+- Connect you with activities and comrades
 
 {% include comp-button.html text="Sign up for Rose Buddies" link="http://bit.ly/getrosebuddy" %}
