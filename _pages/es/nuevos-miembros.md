@@ -4,17 +4,29 @@ lang-ref: new-members
 title: Nuevos miembros
 description: Recursos para ayudar a los nuevos miembros de DSA de Chicago a orientarse.
 subhead: ¡Te has registrado! Busquemos un hogar en nuestro movimiento.
+image: images/Union-Square.png
+image-description: Los socialistas protestan en Union Square, Nueva York.
+image-credit: Biblioteca del Congreso
 ---
 
-## Asista a una orientación para nuevos miembros
+## Asista a una orientación para miembros nuevos
 
-El tercer sábado de cada mes, algunos camaradas maravillosos presentan llamadas introductorias de Zoom. Dedicamos tiempo a conocernos, discutimos los conceptos básicos del socialismo y presentamos una descripción general de las actividades prioritarias de Chicago DSA.
+El último miércoles de cada mes, DSA de Chicago organiza una llamada de orientación sobre Zoom. Los miembros del capítulo responden preguntas como:
 
-{% include comp-button.html text="Encuentra una orientación para nuevos miembros" link="../es/eventos" %}
-{% include comp-button.html text="Envíe un correo electrónico a nuestro equipo para nuevos miembros" link="mailto:newmember@chicagodsa.org" %}
+- ¿Qué es el socialismo democrático?
+- ¿Qué es DSA y cómo está estructurado nuestro capítulo?
+- ¿Cómo puedo involucrarme?
 
-## Únete a Rose Buddies
+Representantes de nuestras [campañas](campanas) y [grupos de trabajo](grupos-de-trabajo) presentarán su trabajo, invitarán a la gente a unirse y recopilarán nombres.
 
-Mientras nuestra membresía crece, DSA de Chicago se compromete a encontrar la mejor manera para que todos participen en el trabajo de nuestro capítulo. Durante un período de tres meses, un miembro veterano de la DSA programará visitas, responderá sus preguntas y lo conectará con las actividades del capítulo que satisfagan sus intereses.
+{% include comp-button.html text="Encuentre una nueva orientación para miembros" link="../es/eventos" %}
 
-{% include comp-button.html text="Regístrese para Rose Buddies" link="http://bit.ly/getrosebuddy" %}
+#### Únete a Rose Buddies
+
+Después de asistir a una orientación, es elegible para unirse a Rose Buddies. Durante un período de tres meses, un mentor de DSA de Chicago:
+
+- Programar registros
+- Responde tus preguntas
+- ¡Conectarte con actividades y más camaradas!
+
+{% include comp-button.html text="Registrarse en Rose Buddies" link="http://bit.ly/getrosebuddy" %}

@@ -9,6 +9,12 @@ elements:
           url: 
             en: campaigns
             es: es/campanas
+      - page:
+          en: Working groups
+          es: Grupos de trabajo
+          url: 
+            en: working-groups
+            es: es/grupos-de-trabajo
   - group:
     en: Member resources
     es: Recursos para miembros
