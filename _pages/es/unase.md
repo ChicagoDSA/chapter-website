@@ -23,11 +23,11 @@ Una vez al mes, recibimos una lista de nuevos miembros y actualizamos nuestra li
 
 Todos los domingos publicamos **This Week in CDSA**. ¿Está en tu bandeja de entrada? Estás en DSA de Chicago.
 
-----
-
+{% capture note %}
 #### Una nota especial:
 
 El 48% de nuestra financiación proviene de miembros que donan un poco más y de aliados que están de acuerdo con la causa. Si puede pagarlo, programe una donación recurrente o única. El 100% de todas las donaciones benefician a los servicios de DSA de Chicago.
 
-{% include comp-button.html text="Done directamente a DSA de Chicago" link="https://secure.actblue.com/donate/cdsa-dues-drive" %}
-
+[Done directamente a DSA de Chicago](https://secure.actblue.com/donate/cdsa-dues-drive)
+{% endcapture %}
+{% include comp-note.html content=note %}

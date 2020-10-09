@@ -23,10 +23,11 @@ Once a month, we receive a list of new members and update our internal roster.
 
 Every Sunday, we publish **This Week in CDSA**. Is it in your inbox? You're in Chicago DSA.
 
-----
-
+{% capture note %}
 #### A special note:
 
 48% of our funding comes from members who donate a little extra, and allies that are down with the cause. If you can afford it, set up a recurring or one-time donation. 100% of all donations benefit Chicago DSA services.
 
-{% include comp-button.html text="Donate directly to Chicago DSA" link="https://secure.actblue.com/donate/cdsa-dues-drive" %}
+[Donate directly to Chicago DSA](https://secure.actblue.com/donate/cdsa-dues-drive)
+{% endcapture %}
+{% include comp-note.html content=note %}
