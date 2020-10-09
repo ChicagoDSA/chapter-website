@@ -17,7 +17,7 @@ Si desea participar en grupos de trabajo y votar sobre temas del capítulo, debe
 
 ## Nosotros te confirmaremos
 
-Una vez al mes, recibimos una lista de nuevos miembros y actualizamos nuestra lista interna.
+Todos los lunes, recibimos una lista de nuevos miembros y actualizamos nuestra lista interna.
 
 ## Revisa tu correo
 

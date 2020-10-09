@@ -17,7 +17,7 @@ If you want to participate in working groups and vote on chapter issues, you nee
 
 ## We'll confirm you
 
-Once a month, we receive a list of new members and update our internal roster.
+Every Monday, we receive a list of new members and update our internal roster.
 
 ## Check your inbox
 
