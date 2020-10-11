@@ -8,10 +8,12 @@ image-description: Chicago DSA members prepare to walk at the June 27, 2020 Marc
 image-credit: Sarah-Ji
 ---
 
+DSA is the largest socialist organization in the United States. As an entirely volunteer-run, member-driven organization, the Chicago chapter organizes campaigns to put power in the hands of our neighbors, build rank-and-file labor, and provide political education.
+
 ## [Campaigns](campaigns)
 
 {% include list-tiles.html collection="campaigns" %}
 
 ## [Upcoming events](events)
 
-{% include list-events.html calendar="ksc3uaa38o41o2vz8o" limit=2 %}
+{% include list-events.html calendar="ksc3uaa38o41o2vz8o" limit=4 %}

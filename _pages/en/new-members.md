@@ -3,7 +3,7 @@ layout: default
 lang-ref: new-members
 title: New members
 description: Resources to help new Chicago DSA members get oriented.
-subhead: You've joined! Let's find a local home.
+subhead: Meet comrades. Get involved.
 image: images/Union-Square.png
 image-description: Socialists protest in Union Square, New York.
 image-credit: Library of Congress
@@ -23,10 +23,8 @@ Representatives from our [campaigns](campaigns) and [working groups](working-gro
 
 #### Join Rose Buddies
 
-After attending an orientation, you're eligible to join Rose Buddies. Over a three-month period, a Chicago DSA mentor will: 
+After attending an orientation, you'll receive [an invitation to join Rose Buddies](http://bit.ly/getrosebuddy). Over a three-month period, a Chicago DSA mentor will: 
 
 - Schedule check-ins
 - Answer your questions
 - Connect you with activities and comrades
-
-{% include comp-button.html text="Sign up for Rose Buddies" link="http://bit.ly/getrosebuddy" %}
