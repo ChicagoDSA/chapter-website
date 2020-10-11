@@ -2,9 +2,9 @@
 lang-ref: join
 title: Únase a DSA
 description: Regístrese como miembro. Juntas, podemos construir un mundo mejor.
-image: images/Castro.png
+image: images/DSA-megaphone.png
 image-description: Fidel Castro saluda a sus seguidores.
-image-credit: Magnum
+image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
 ## Pagar cuotas
