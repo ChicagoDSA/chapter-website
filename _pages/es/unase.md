@@ -3,7 +3,7 @@ lang-ref: join
 title: Únase a DSA
 description: Regístrese como miembro. Juntas, podemos construir un mundo mejor.
 image: images/DSA-megaphone.png
-image-description: Fidel Castro saluda a sus seguidores.
+image-description: Un miembro de la DSA de Chicago dirige cánticos de protesta.
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 

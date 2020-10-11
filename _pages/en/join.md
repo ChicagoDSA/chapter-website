@@ -3,7 +3,7 @@ lang-ref: join
 title: Join DSA
 description: Become a member. Together, we can build a better world.
 image: images/DSA-megaphone.png
-image-description: Fidel Castro greets his supporters.
+image-description: A Chicago DSA member leads protest chants.
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
