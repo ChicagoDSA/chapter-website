@@ -4,9 +4,9 @@ lang-ref: new-members
 title: New members
 description: Resources to help new Chicago DSA members get oriented.
 subhead: Meet comrades. Get involved.
-image: images/Union-Square.png
-image-description: Socialists protest in Union Square, New York.
-image-credit: Library of Congress
+image: images/Bernie-pizza.png
+image-description: Two comrades feed pizza to a cardboard Bernie Sanders.
+image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
 ## Attend a new member orientation

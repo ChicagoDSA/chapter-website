@@ -4,9 +4,9 @@ lang-ref: new-members
 title: Nuevos miembros
 description: Recursos para ayudar a los nuevos miembros de DSA de Chicago a orientarse.
 subhead: Conoce a los camaradas. Involucrarse.
-image: images/Union-Square.png
-image-description: Los socialistas protestan en Union Square, Nueva York.
-image-credit: Biblioteca del Congreso
+image: images/Bernie-pizza.png
+image-description: Dos camaradas le dan pizza a un Bernie Sanders de cartón.
+image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
 ## Asista a una orientación para miembros nuevos
