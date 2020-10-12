@@ -1,5 +1,4 @@
 ---
-layout: default
 lang-ref: new-members
 title: New members
 description: Resources to help new Chicago DSA members get oriented.
