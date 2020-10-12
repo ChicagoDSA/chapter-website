@@ -10,10 +10,12 @@ image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephoto
 
 DSA es la organización socialista más grande de Estados Unidos. Como organización totalmente dirigida por voluntarios e impulsada por sus miembros, el capítulo de Chicago organiza campañas para poner el poder en manos de nuestros vecinos, empoderar al trabajo sindical y brindar educación política.
 
-## [Campañas](campanas)
+## Campañas
 
 {% include list-tiles.html collection="campaigns" %}
 
-## [Próximos eventos](eventos)
+## Eventos
 
 {% include list-events.html calendar="ksc3uaa38o41o2vz8o" limit=4 %}
+
+[Ver nuestro calendario completo](https://teamup.com/ksc3uaa38o41o2vz8o?lang=es)

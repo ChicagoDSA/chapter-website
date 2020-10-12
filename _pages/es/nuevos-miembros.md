@@ -19,7 +19,7 @@ El último miércoles de cada mes, DSA de Chicago organiza una llamada de orient
 
 Representantes de nuestras [campañas](campanas) y [grupos de trabajo](grupos-de-trabajo) presentarán su trabajo, invitarán a la gente a unirse y recopilarán nombres.
 
-{% include comp-button.html text="Encuentre una orientación para miembros nuevos" link="../es/eventos" %}
+{% include comp-button.html text="Encuentre una orientación para miembros nuevos" link="https://teamup.com/ksc3uaa38o41o2vz8o" %}
 
 #### Únete a Rose Buddies
 

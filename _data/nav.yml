@@ -10,6 +10,12 @@ elements:
             en: campaigns
             es: es/campanas
       - page:
+          en: Events
+          es: Eventos
+          url: 
+            en: https://teamup.com/ksc3uaa38o41o2vz8o
+            es: https://teamup.com/ksc3uaa38o41o2vz8o?lang=es
+      - page:
           en: Working groups
           es: Grupos de trabajo
           url: 

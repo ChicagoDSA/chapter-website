@@ -10,10 +10,12 @@ image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephoto
 
 DSA is the largest socialist organization in the United States. As an entirely volunteer-run, member-driven organization, the Chicago chapter organizes campaigns to put power in the hands of our neighbors, build rank-and-file labor, and provide political education.
 
-## [Campaigns](campaigns)
+## Campaigns
 
 {% include list-tiles.html collection="campaigns" %}
 
-## [Upcoming events](events)
+## Events
 
 {% include list-events.html calendar="ksc3uaa38o41o2vz8o" limit=4 %}
+
+[View our full calendar](https://teamup.com/ksc3uaa38o41o2vz8o)
