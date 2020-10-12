@@ -26,7 +26,7 @@ Todos los domingos publicamos **This Week in CDSA**. ¿Está en tu bandeja de en
 {% capture note %}
 #### Una nota especial:
 
-El 48% de nuestra financiación proviene de miembros que donan un poco más y de aliados que están de acuerdo con la causa. Si puede pagarlo, programe una donación recurrente o única. El 100% de todas las donaciones benefician a los servicios de DSA de Chicago.
+El 22% de nuestra financiación proviene de miembros que donan un poco más y de aliados que están de acuerdo con la causa. Si puede pagarlo, programe una donación recurrente o única. El 100% de todas las donaciones benefician a las campañas y programas de DSA de Chicago.
 
 [Done directamente a DSA de Chicago](https://secure.actblue.com/donate/cdsa-dues-drive)
 {% endcapture %}

@@ -26,7 +26,7 @@ Every Sunday, we publish **This Week in CDSA**. Is it in your inbox? You're in C
 {% capture note %}
 #### A special note:
 
-48% of our funding comes from members who donate a little extra, and allies that are down with the cause. If you can afford it, set up a recurring or one-time donation. 100% of all donations benefit Chicago DSA services.
+22% of our funding comes from members who donate a little extra, and allies that are down with the cause. If you can afford it, set up a recurring or one-time donation. 100% of all donations benefit Chicago DSA campaigns and programs.
 
 [Donate directly to Chicago DSA](https://secure.actblue.com/donate/cdsa-dues-drive)
 {% endcapture %}
