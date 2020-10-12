@@ -10,17 +10,23 @@ elements:
             en: campaigns
             es: es/campanas
       - page:
-          en: Events
-          es: Eventos
-          url: 
-            en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
-            es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
-      - page:
           en: Working groups
           es: Grupos de trabajo
           url: 
             en: working-groups
             es: es/grupos-de-trabajo
+      - page:
+          en: Political education
+          es: Educación política
+          url: 
+            en: political-education
+            es: es/educacion-politica
+      - page:
+          en: The Labor Branch
+          es: El Ramo Laboral
+          url: 
+            en: the-labor-branch
+            es: es/el-ramo-laboral
       - page: 
           en: Midwest Socialist
           url: https://midwestsocialist.com/
@@ -29,11 +35,17 @@ elements:
     es: Recursos para miembros
     items:
       - page:
-          en: Branches
-          es: Ramas
+          en: Events
+          es: Eventos
+          url: 
+            en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
+            es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
+      - page:
+          en: Geographic branches
+          es: Ramas geográficas
           url:
-            en: branches
-            es: es/ramas
+            en: geographic-branches
+            es: es/ramas-geograficas
       - page:
           en: New members
           es: Nuevos miembros
