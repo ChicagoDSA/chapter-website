@@ -19,7 +19,7 @@ On the last Wednesday of every month, Chicago DSA hosts an orientation call on Z
 
 Representatives from our [campaigns](campaigns) and [working groups](working-groups) will present their work, invite folks to join, and collect names.
 
-{% include comp-button.html text="Find a New Member Orientation" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a&showHeader=0&filterby=8816365" %}
+{% include comp-button.html text="Find a New Member Orientation" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a&filterby=8816365" %}
 
 #### Join Rose Buddies
 
