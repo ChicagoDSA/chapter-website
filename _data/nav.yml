@@ -22,7 +22,7 @@ elements:
             en: working-groups
             es: es/grupos-de-trabajo
       - page: 
-          title: Midwest Socialist
+          en: Midwest Socialist
           url: https://midwestsocialist.com/
   - group:
     en: Member resources
