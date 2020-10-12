@@ -4,8 +4,8 @@ lang-ref: new-members
 title: New members
 description: Resources to help new Chicago DSA members get oriented.
 subhead: Meet comrades. Get involved.
-image: images/Bernie-pizza.png
-image-description: Two comrades feed pizza to a cardboard Bernie Sanders.
+image: images/June-5.png
+image-description: "Protesters march to #DefundCPD on June 5, 2020. Chicago DSA endorsed and organized this action. Help us plan the next one."
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
