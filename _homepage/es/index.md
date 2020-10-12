@@ -18,4 +18,4 @@ DSA es la organización socialista más grande de Estados Unidos. Como organizac
 
 {% include list-events.html calendar="ksc3uaa38o41o2vz8o" limit=4 %}
 
-[Ver nuestro calendario completo](https://teamup.com/ksc3uaa38o41o2vz8o?lang=es)
+[Ver nuestro calendario completo](https://teamup.com/ksc3uaa38o41o2vz8o?view=m&lang=es)

@@ -9,7 +9,7 @@ image-description: "Protesters march to #DefundCPD on June 5, 2020. Chicago DSA 
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-## Attend a new member orientation
+## Attend a New Member Orientation
 
 On the last Wednesday of every month, Chicago DSA hosts an orientation call on Zoom. Chapter members will discuss:
 
@@ -19,7 +19,7 @@ On the last Wednesday of every month, Chicago DSA hosts an orientation call on Z
 
 Representatives from our [campaigns](campaigns) and [working groups](working-groups) will present their work, invite folks to join, and collect names.
 
-{% include comp-button.html text="Find a new member orientation" link="https://teamup.com/ksc3uaa38o41o2vz8o" %}
+{% include comp-button.html text="Find a New Member Orientation" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=l&filterby=8816365" %}
 
 #### Join Rose Buddies
 

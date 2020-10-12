@@ -9,7 +9,7 @@ image-description: "Los manifestantes marchan hacia #DefundCPD el 5 de junio de 
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-## Asista a una orientación para miembros nuevos
+## Asista a una Orientación para Miembros Nuevos
 
 El último miércoles de cada mes, DSA de Chicago organiza una llamada de orientación sobre Zoom. Los miembros del capítulo responden preguntas como:
 
@@ -19,7 +19,7 @@ El último miércoles de cada mes, DSA de Chicago organiza una llamada de orient
 
 Representantes de nuestras [campañas](campanas) y [grupos de trabajo](grupos-de-trabajo) presentarán su trabajo, invitarán a la gente a unirse y recopilarán nombres.
 
-{% include comp-button.html text="Encuentre una orientación para miembros nuevos" link="https://teamup.com/ksc3uaa38o41o2vz8o" %}
+{% include comp-button.html text="Encuentre una Orientación para Miembros Nuevos" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=l&filterby=8816365&lang=es" %}
 
 #### Únete a Rose Buddies
 

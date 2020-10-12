@@ -13,8 +13,8 @@ elements:
           en: Events
           es: Eventos
           url: 
-            en: https://teamup.com/ksc3uaa38o41o2vz8o
-            es: https://teamup.com/ksc3uaa38o41o2vz8o?lang=es
+            en: https://teamup.com/ksc3uaa38o41o2vz8o?view=m
+            es: https://teamup.com/ksc3uaa38o41o2vz8o?view=m&lang=es
       - page:
           en: Working groups
           es: Grupos de trabajo
