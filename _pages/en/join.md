@@ -9,7 +9,7 @@ image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephoto
 
 ## Pay dues
 
-If you want to participate in working groups and vote on chapter issues, you need to become a national DSA member. Join as a **Movement Builder** and 20% of your dues will be shared directly with Chicago DSA.
+If you want to participate in working groups and vote on chapter issues, you need to become a national DSA member. Join as a *Movement Builder* and 20% of your dues will be shared directly with Chicago DSA.
 
 {% include comp-button.html text="Join national DSA" link="https://www.dsausa.org/join" %}
 
@@ -21,7 +21,7 @@ Every Monday, we receive a list of new members and update our internal roster.
 
 ## Check your inbox
 
-Every Sunday, we publish **This Week in CDSA**. Is it in your inbox? You're in Chicago DSA.
+Every Sunday, we publish *This Week in CDSA*. Is it in your inbox? You're in Chicago DSA.
 
 {% capture note %}
 #### A special note:

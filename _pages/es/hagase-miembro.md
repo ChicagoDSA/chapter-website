@@ -9,7 +9,7 @@ image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephoto
 
 ## Pague sus cuotas
 
-Si desea participar en grupos de trabajo y votar sobre los temas del capítulo, debe hágase miembro de DSA nacional. Inscríbase como **Movement Builder** y el 20% de sus cuotas se compartirá directamente con DSA de Chicago.
+Si desea participar en grupos de trabajo y votar sobre los temas del capítulo, debe hágase miembro de DSA nacional. Inscríbase como *Movement Builder* y el 20% de sus cuotas se compartirá directamente con DSA de Chicago.
 
 {% include comp-button.html text="Hágase miembro de DSA nacional" link="https://www.dsausa.org/join" %}
 
@@ -21,7 +21,7 @@ Todos los lunes, recibimos una lista de nuevos miembros y actualizamos nuestra l
 
 ## Compruebe su bandeja de entrada
 
-Todos los domingos publicamos **This Week in CDSA**. ¿Está en tu bandeja de entrada? Estás en DSA de Chicago.
+Todos los domingos publicamos *This Week in CDSA*. ¿Está en tu bandeja de entrada? Estás en DSA de Chicago.
 
 {% capture note %}
 #### Una nota especial:
