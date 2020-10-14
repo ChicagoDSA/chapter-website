@@ -15,7 +15,7 @@ When you pay national dues, you're automatically a member of Chicago DSA. You ca
 
 *[Dues waivers](https://dsausa.org/dueswaiver) are available.*
 
-## Leave the rest to us
+## We'll add you to our list
 
 Every Monday, we receive a list of new members. We use this to:
 

@@ -15,7 +15,7 @@ Cuando paga las cuotas nacionales, automáticamente es miembro de DSA de Chicago
 
 *[Exenciones de cuotas (inglés)](https://dsausa.org/dueswaiver) están disponibles.*
 
-## Deje el resto a nosotros
+## Te agregaremos a nuestra lista
 
 Todos los lunes recibimos una lista de nuevos miembros. Usamos esto para:
 
