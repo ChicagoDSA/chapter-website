@@ -8,7 +8,7 @@ image-description: "Los manifestantes marchan para #DefundCPD el 5 de junio de 2
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-## Asistir *¿Qué es DSA?*
+## Asistir a *¿Qué es DSA?*
 
 El último miércoles de cada mes, DSA de Chicago presenta nuestra orientación virtual. Los miembros del capítulo discutirán:
 
