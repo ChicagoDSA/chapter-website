@@ -17,7 +17,7 @@ At the national level, DSA members have formed several caucuses. They allow indi
 
 ## Afrosocialists and Socialists of Color
 
-The Afrosocialists and Socialists of Color Caucus (AfroSOC) continues the tradition of radical Black, Indigenous, and minority organizing. Strategic goals include:
+The [Afrosocialists and Socialists of Color Caucus (AfroSOC)](http://linktr.ee/ChicagoAfroSOC) continues the tradition of radical Black, Indigenous, and minority organizing. Strategic goals include:
 
 - Advocating for DSA's BIPOC membership and their communities
 - Building a multiracial, working-class base

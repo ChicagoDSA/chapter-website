@@ -17,7 +17,7 @@ A nivel nacional, los miembros de la DSA han formado varios grupos políticos. P
 
 ## Afrosocialistas y Socialistas de Color
 
-El Caucus de Afrosocialistas y Socialistas de Color (AfroSOC) continúa la tradición de organización radical de negros, indígenas y minorías. Los objetivos estratégicos incluyen:
+El [Caucus de Afrosocialistas y Socialistas de Color (AfroSOC)](http://linktr.ee/ChicagoAfroSOC) continúa la tradición de organización radical de negros, indígenas y minorías. Los objetivos estratégicos incluyen:
 
 - Abogando por la membresía BIPOC de DSA y sus comunidades
 - Construyendo una base multirracial de clase trabajadora
