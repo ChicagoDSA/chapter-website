@@ -6,7 +6,12 @@ image-description: "Los manifestantes ondean banderas palestinas y puertorrique�
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-A nivel nacional, los miembros de la DSA han formado varios grupos políticos. Permiten que las personas con una visión socialista compartida se organicen y den forma a nuestras prioridades. En Chicago, tenemos dos grupos activos.
+{% capture note %}
+#### ¿Qué es un grupo político?
+
+A nivel nacional, los miembros de la DSA han formado varios grupos políticos. Permiten que personas con una visión socialista unida se organicen y den forma a nuestras prioridades. En Chicago, tenemos dos grupos activos.
+{% endcapture %}
+{% include comp-note.html content=note %}
 
 ## Afrosocialistas y Socialistas de Color
 
@@ -24,4 +29,4 @@ El Caucus de Afrosocialistas y Socialistas de Color (AfroSOC) continúa la tradi
 
 - Utilizar una estrategia de base para organizar de manera militante industrias esenciales
 - Comprometerse con partidos y organizaciones socialistas en otros países
-- Construir una sólida lista de educación política
+- La construcción de un sólido programa de educación política

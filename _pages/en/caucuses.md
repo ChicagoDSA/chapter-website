@@ -6,7 +6,12 @@ image-description: "Protesters wave Palestinian and Puerto Rican flags during th
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
+{% capture note %}
+#### What's a caucus?
+
 At the national level, DSA members have formed several caucuses. They allow individuals with a shared socialist vision to organize and shape our priorities. In Chicago, we have two active caucuses.
+{% endcapture %}
+{% include comp-note.html content=note %}
 
 ## Afrosocialists and Socialists of Color
 
