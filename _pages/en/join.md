@@ -9,19 +9,19 @@ image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephoto
 
 ## Pay dues
 
-If you want to participate in working groups and vote on chapter issues, you need to become a national DSA member. Join as a *Movement Builder* and 20% of your dues will be shared directly with Chicago DSA.
+When you pay national dues, you're automatically a member of Chicago DSA. You can work on campaigns, run for our elected offices, and vote on chapter issues. Join as a *Movement Builder* and 20% of your dues will be shared directly with Chicago DSA.
 
 {% include comp-button.html text="Join national DSA" link="https://www.dsausa.org/join" %}
 
 *[Dues waivers](https://dsausa.org/dueswaiver) are available.*
 
-## We'll confirm you
+## Leave the rest to us
 
-Every Monday, we receive a list of new members and update our internal roster.
+Every Monday, we receive a list of new members. We use this to:
 
-## Check your inbox
-
-Every Sunday, we publish *This Week in CDSA*. Is it in your inbox? You're in Chicago DSA.
+- Add folks to our Sunday newsletter, *This Week in CDSA*
+- Send time-sensitive text messages and emails
+- Verify access to our Slack workspace
 
 {% capture note %}
 #### A special note:
