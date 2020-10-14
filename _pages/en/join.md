@@ -13,7 +13,7 @@ If you want to participate in working groups and vote on chapter issues, you nee
 
 {% include comp-button.html text="Join national DSA" link="https://www.dsausa.org/join" %}
 
-*Economic struggle will not divide us. [Dues waivers](https://dsausa.org/dueswaiver) are available.*
+*[Dues waivers](https://dsausa.org/dueswaiver) are available.*
 
 ## We'll confirm you
 

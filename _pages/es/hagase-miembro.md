@@ -13,7 +13,7 @@ Si desea participar en grupos de trabajo y votar sobre los temas del capítulo, 
 
 {% include comp-button.html text="Hágase miembro de DSA nacional" link="https://www.dsausa.org/join" %}
 
-*La lucha económica no nos dividirá. [Exenciones de cuotas (inglés)](https://dsausa.org/dueswaiver) están disponibles.*
+*[Exenciones de cuotas (inglés)](https://dsausa.org/dueswaiver) están disponibles.*
 
 ## Nosotros te confirmaremos
 
