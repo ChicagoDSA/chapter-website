@@ -8,9 +8,9 @@ image-description: "Los manifestantes marchan para #DefundCPD el 5 de junio de 2
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-## Asistir a una Orientación para Nuevos Miembros
+## Asistir *¿Qué es DSA?*
 
-El último miércoles de cada mes, DSA de Chicago organiza una llamada de orientación sobre Zoom. Los miembros del capítulo discutirán:
+El último miércoles de cada mes, DSA de Chicago presenta nuestra orientación virtual. Los miembros del capítulo discutirán:
 
 - Los fundamentos del socialismo democrático
 - Estructuras locales y nacionales de DSA
@@ -18,11 +18,11 @@ El último miércoles de cada mes, DSA de Chicago organiza una llamada de orient
 
 Representantes de nuestras [campañas](campanas) y [grupos de trabajo](grupos-de-trabajo) presentarán su trabajo, invitarán a la gente a unirse y recopilarán nombres.
 
-{% include comp-button.html text="Encuentre una Orientación para Nuevos Miembros" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a&filterby=8816365&lang=es" %}
+{% include comp-button.html text="Encuentre el próximo *¿Qué es DSA?*" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a&filterby=8816365&lang=es" %}
 
 #### Inscríbase en Rose Buddies
 
-Después de asistir a una orientación, recibirá [una invitación para inscribirte en Rose Buddies](http://bit.ly/getrosebuddy). Durante un período de tres meses, un mentor de DSA de Chicago:
+Al final de la orientación, lo invitaremos a inscribirse en Rose Buddies. Durante un período de tres meses, un mentor de DSA de Chicago:
 
 - Programará reuniones individuales
 - Responderá a sus preguntas

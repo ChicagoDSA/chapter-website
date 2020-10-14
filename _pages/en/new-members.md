@@ -8,9 +8,9 @@ image-description: "Protesters march to #DefundCPD on June 5, 2020. Chicago DSA 
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-## Attend a New Member Orientation
+## Attend *What is DSA?*
 
-On the last Wednesday of every month, Chicago DSA hosts an orientation call on Zoom. Chapter members will discuss:
+On the last Wednesday of every month, Chicago DSA hosts our virtual orientation. Chapter members will discuss:
 
 - The basics of democratic socialism 
 - DSA's national and local structures
@@ -18,11 +18,11 @@ On the last Wednesday of every month, Chicago DSA hosts an orientation call on Z
 
 Representatives from our [campaigns](campaigns) and [working groups](working-groups) will present their work, invite folks to join, and collect names.
 
-{% include comp-button.html text="Find a New Member Orientation" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a&filterby=8816365" %}
+{% include comp-button.html text="Find the next *What is DSA?*" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a&filterby=8816365" %}
 
 #### Join Rose Buddies
 
-After attending an orientation, you'll receive [an invitation to join Rose Buddies](http://bit.ly/getrosebuddy). Over a three-month period, a Chicago DSA mentor will: 
+At the end of the orientation, we'll invite you to join Rose Buddies. Over a three-month period, a Chicago DSA mentor will: 
 
 - Schedule check-ins
 - Answer your questions
