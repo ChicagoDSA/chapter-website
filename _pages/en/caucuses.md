@@ -1,6 +1,8 @@
 ---
 lang-ref: caucuses
 title: Caucuses
+description: An explanation of the role caucuses play in DSA and a description of locally-active affiliates.
+subhead: Organize with members that share your ideology.
 image: images/Palestinian-Puerto-Rican-flags.png
 image-description: "Protesters wave Palestinian and Puerto Rican flags during the Decolonize Zhigaagoong action on July 17, 2020. AfroSOC builds BIPOC and abolitionist power."
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
