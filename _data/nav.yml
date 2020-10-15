@@ -1,8 +1,13 @@
 elements:
   - group: 
-    en: Our work
+    en: Our priorities
     es: Nuestro trabajo
     items:
+      - page:
+          en: AfroSOC
+          url: 
+            en: afrosoc
+            es: es/afrosoc
       - page:
           en: Campaigns
           es: Campañas
@@ -10,29 +15,20 @@ elements:
             en: campaigns
             es: es/campanas
       - page:
-          en: Working groups
-          es: Grupos de trabajo
+          en: The Labor Branch
+          es: El Ramo Laboral
           url: 
-            en: working-groups
-            es: es/grupos-de-trabajo
+            en: the-labor-branch
+            es: es/el-ramo-laboral
       - page:
           en: Political education
           es: Educación política
           url: 
             en: political-education
             es: es/educacion-politica
-      - page:
-          en: The Labor Branch
-          es: El Ramo Laboral
-          url: 
-            en: the-labor-branch
-            es: es/el-ramo-laboral
-      - page: 
-          en: Midwest Socialist
-          url: https://midwestsocialist.com/
   - group:
-    en: Member resources
-    es: Recursos para miembros
+    en: Our chapter
+    es: Nuestro capítulo
     items:
       - page:
           en: Events
@@ -41,23 +37,38 @@ elements:
             en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
             es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
       - page:
+          en: Working groups
+          es: Grupos de trabajo
+          url:
+            en: working-groups
+            es: es/grupos-de-trabajo
+      - page:
           en: Geographic branches
           es: Ramas geográficas
           url:
             en: geographic-branches
             es: es/ramas-geograficas
+  - group:
+    en: Help
+    es: Ayuda
+    items:
       - page:
-          en: Caucuses
-          es: Grupos politicos
+          en: FAQs
           url:
-            en: caucuses
-            es: es/grupos-politicos
+            en: faqs
+            es: es/faqs
       - page:
           en: New members
           es: Nuevos miembros
           url:
             en: new-members
             es: es/nuevos-miembros
+      - page:
+          en: Contact us
+          es: Contacta con nosotros
+          url:
+            en: contact-us
+            es: es/contacta-con-nosotros
 
 credits: 
   this-site-was-made-by:
