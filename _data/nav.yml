@@ -4,11 +4,6 @@ elements:
     es: Nuestro trabajo
     items:
       - page:
-          en: AfroSOC
-          url: 
-            en: afrosoc
-            es: es/afrosoc
-      - page:
           en: Campaigns
           es: Campañas
           url: 
@@ -26,6 +21,11 @@ elements:
           url: 
             en: political-education
             es: es/educacion-politica
+      - page:
+          en: AfroSOC
+          url: 
+            en: afrosoc
+            es: es/afrosoc
   - group:
     en: Our chapter
     es: Nuestro capítulo
