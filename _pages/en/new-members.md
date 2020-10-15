@@ -8,9 +8,9 @@ image-description: "Protesters march to #DefundCPD on June 5, 2020. Chicago DSA 
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-## Attend *What is DSA?*
+## Attend *What is CDSA?*
 
-On the last Wednesday of every month, Chicago DSA hosts our virtual orientation. Chapter members will discuss:
+Once a month, Chicago DSA hosts orientations for those interested in learning about DSA, for newly joined members, as well as existing members who are looking for ways to reconnect with the chapter. Chapter members will discuss:
 
 - The basics of democratic socialism 
 - DSA's national and local structures
@@ -18,11 +18,11 @@ On the last Wednesday of every month, Chicago DSA hosts our virtual orientation.
 
 Representatives from our [campaigns](campaigns) and [working groups](working-groups) will present their work, invite folks to join, and collect names.
 
-{% include comp-button.html text="Find the next *What is DSA?*" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a&filterby=8816365" %}
+{% include comp-button.html text="Find the next *What is CDSA?*" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a&filterby=8816365" %}
 
-#### Join Rose Buddies
+#### Join the Rose Buddy mentorship program
 
-At the end of the orientation, we'll invite you to join Rose Buddies. Over a three-month period, a Chicago DSA mentor will: 
+At the end of each *What is CDSA?* orientation, we’ll invite you to join the Rose Buddy program, our mentorship program that pairs new and experienced CDSA members to help you connect with the chapter. Over a three-month period, a Chicago DSA mentor will: 
 
 - Schedule check-ins
 - Answer your questions
