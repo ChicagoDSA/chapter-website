@@ -37,6 +37,7 @@ elements:
       - page:
           en: Events
           es: Eventos
+          external: yes
           url: 
             en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
             es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
@@ -64,6 +65,7 @@ elements:
       - page:
           en: Bylaws
           es: Estatutos
+          external: yes
           url: https://drive.google.com/file/d/0B0JqEgf4AjRoUEpocmxBRV9aS3c5bFAzMGFwUW1BUWZMLUpJ/view
       - page:
           en: New members
