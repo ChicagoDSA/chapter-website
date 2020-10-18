@@ -8,7 +8,7 @@ image-description: "Los manifestantes marchan para #DefundCPD el 5 de junio de 2
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-## Asistir a *¿Qué es CDSA?*
+## Asistir a una orientación de *¿Qué es CDSA?*
 
 Una vez al mes, Chicago DSA organiza orientaciones para personas interesadas en aprender sobre DSA, para miembros recién inscritos y para miembros existentes que buscan formas de volver a conectarse con el capítulo. Los miembros del capítulo discutirán:
 

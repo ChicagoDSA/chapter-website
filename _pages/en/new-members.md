@@ -8,7 +8,7 @@ image-description: "Protesters march to #DefundCPD on June 5, 2020. Chicago DSA 
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-## Attend *What is CDSA?*
+## Attend a *What is CDSA?* orientation
 
 Once a month, Chicago DSA hosts orientations for those interested in learning about DSA, for newly joined members, as well as existing members who are looking for ways to reconnect with the chapter. Chapter members will discuss:
 
