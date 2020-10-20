@@ -74,7 +74,8 @@ join:
   text:
     en: Join DSA
     es: Hágase miembro de DSA
-  link: # Override DSA national link
+  url: # Override DSA national link
+    default: # Apply a link to all languages
     en: join
     es: es/hagase-miembro
 
