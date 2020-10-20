@@ -6,7 +6,7 @@ elements:
   - group: 
     en: Our priorities
     es: Nuestro trabajo
-    items:
+    pages:
       - page:
           en: Campaigns
           es: Campañas
@@ -33,13 +33,7 @@ elements:
   - group:
     en: Our chapter
     es: Nuestro capítulo
-    items:
-      - page:
-          en: Events
-          es: Eventos
-          url: 
-            en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
-            es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
+    pages:
       - page:
           en: Working groups
           es: Grupos de trabajo
@@ -52,19 +46,6 @@ elements:
           url:
             en: geographic-branches
             es: es/ramas-geograficas
-  - group:
-    en: Resources
-    es: Recursos
-    items:
-      - page:
-          en: FAQs
-          url:
-            en: faqs
-            es: es/faqs
-      - page:
-          en: Bylaws
-          es: Estatutos
-          url: https://drive.google.com/file/d/0B0JqEgf4AjRoUEpocmxBRV9aS3c5bFAzMGFwUW1BUWZMLUpJ/view
       - page:
           en: New members
           es: Nuevos miembros
@@ -72,11 +53,22 @@ elements:
             en: new-members
             es: es/nuevos-miembros
       - page:
-          en: Contact us
-          es: Contacta con nosotros
+          en: FAQs
           url:
-            en: contact-us
-            es: es/contacta-con-nosotros
+            en: faqs
+            es: es/faqs
+  - page:
+      en: Events
+      es: Eventos
+      url: 
+        en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
+        es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
+  - page:
+      en: Contact us
+      es: Contacta con nosotros
+      url: 
+        en: contact-us
+        es: es/contacta-con-nosotros
 
 join:
   text:
