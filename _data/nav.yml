@@ -15,10 +15,10 @@ elements:
             es: es/campanas
       - page:
           en: The Labor Branch
-          es: El Ramo Laboral
+          es: La Rama Laboral
           url: 
             en: the-labor-branch
-            es: es/el-ramo-laboral
+            es: es/la-rama-laboral
       - page:
           en: Political education
           es: Educación política

@@ -8,7 +8,7 @@ image-description: Los miembros de la DSA de Chicago se preparan para caminar en
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-DSA es la organización socialista más grande de Estados Unidos. Como organización totalmente dirigida por voluntarios e impulsada por sus miembros, el capítulo de Chicago organiza [campañas](campanas) para poner el poder en manos de nuestros vecinos, empoderar al [trabajo sindical](el-ramo-laboral) y brindar [educación política](educacion-politica).
+DSA es la organización socialista más grande de Estados Unidos. Como organización totalmente dirigida por voluntarios e impulsada por sus miembros, el capítulo de Chicago organiza [campañas](campanas) para poner el poder en manos de nuestros vecinos, empoderar al [trabajo sindical](la-rama-laboral) y brindar [educación política](educacion-politica).
 
 ## Campañas
 
