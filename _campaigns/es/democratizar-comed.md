@@ -1,5 +1,4 @@
 ---
-order: 2
 lang-ref: democratize-comed
 title: Democratizar ComEd
 image: images/people-over-profit.png

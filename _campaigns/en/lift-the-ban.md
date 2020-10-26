@@ -1,5 +1,4 @@
 ---
-order: 3
 lang-ref: lift-the-ban
 title: Lift the Ban
 image: images/Daley-Plaza-signs.png

@@ -40,6 +40,11 @@ defaults:
       path: _campaigns/en
     values:
       permalink: campaigns/:title
+  -
+    scope:
+      path: _working-groups/en
+    values:
+      permalink: working-groups/:title
   # Spanish
   -
     scope:
@@ -59,6 +64,12 @@ defaults:
     values:
       permalink: es/campanas/:title # language-specific folder
       lang: es
+  -
+    scope:
+      path: _working-groups/es
+    values:
+      permalink: es/grupos-de-trabajo/:title # language-specific folder
+      lang: es
 
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
@@ -70,4 +81,6 @@ collections:
   pages:
     output: true
   campaigns:
+    output: true
+  working-groups:
     output: true

@@ -1,5 +1,4 @@
 ---
-order: 3
 lang-ref: lift-the-ban
 title: Levantar la Prohibición
 image: images/Daley-Plaza-signs.png

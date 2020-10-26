@@ -1,5 +1,4 @@
 ---
-order: 1
 lang-ref: defund-cpd
 title: Desfinanciar CPD
 image: images/May-30.png
