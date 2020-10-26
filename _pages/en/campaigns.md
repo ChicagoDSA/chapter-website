@@ -1,7 +1,7 @@
 ---
 lang-ref: campaigns
 title: Campaigns
-description: We organize and support several active campaigns.
+description: We lead and support several active campaigns.
 image: images/Daley-Plaza-occupation.png
 image-description: As a member of the Lift the Ban Coalition, Chicago DSA helped organize a 5-day occupation of Daley Plaza in August 2020.
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
