@@ -41,22 +41,16 @@ elements:
             en: working-groups
             es: es/grupos-de-trabajo
       - page:
-          en: Geographic branches
-          es: Ramas geográficas
-          url:
-            en: geographic-branches
-            es: es/ramas-geograficas
+          en: Magazine & podcast
+          es: Revista y podcast
+          url: 
+            default: https://midwestsocialist.com/
       - page:
           en: New members
           es: Nuevos miembros
           url:
             en: new-members
             es: es/nuevos-miembros
-      - page:
-          en: FAQs
-          url:
-            en: faqs
-            es: es/faqs
   - page:
       en: Events
       es: Eventos
@@ -65,10 +59,10 @@ elements:
         es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
   - page:
       en: Contact us
-      es: Contacta con nosotros
+      es: Contáctanos
       url: 
         en: contact-us
-        es: es/contacta-con-nosotros
+        es: es/contactanos
 
 join:
   text:
