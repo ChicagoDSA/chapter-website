@@ -24,7 +24,7 @@ Todos los lunes recibimos una lista de nuevos miembros. Usamos esto para:
 - Verificar el acceso a nuestro espacio de trabajo de Slack
 
 {% capture note %}
-#### Una nota especial:
+#### Una nota especial
 
 El 22% de nuestras finanzas proviene de miembros que donan un poco más y aliados que apoyan la causa. Si puede pagarlo, programe una donación recurrente o única. El 100% de todas las donaciones benefician a las campañas y programas de DSA de Chicago.
 

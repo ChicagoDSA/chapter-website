@@ -24,7 +24,7 @@ Every Monday, we receive a list of new members. We use this to:
 - Verify access to our Slack workspace
 
 {% capture note %}
-#### A special note:
+#### A special note
 
 22% of our funding comes from members who donate a little extra, and allies that are down with the cause. If you can afford it, set up a recurring or one-time donation. 100% of all donations benefit Chicago DSA campaigns and programs.
 
