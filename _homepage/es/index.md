@@ -1,6 +1,6 @@
 ---
 lang-ref: homepage
-title: Bienvenidos
+title: Bienvenidxs
 headline: Somos lxs Socialistxs Demócraticxs de América
 subhead: Estamos creando un mundo más equitativo al establecer el socialismo como fuerza política. Creemos que nuestros gobiernos y nuestra economía deben operar, a través de la propiedad social, en beneficio de todos.
 image: images/March-for-Healthcare-Justice-DSA-banner.png
