@@ -13,10 +13,12 @@ teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a
 permalink: pretty
 remote_theme: ChicagoDSA/haymarket@v2.2.6 # Append @vX.X.X to specify a version number
 
+plugins:
+  - jekyll-redirect-from
+
 # Set default front matter for Markdown files
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # All files
     values:
       lang: en
@@ -24,48 +26,40 @@ defaults:
       image: assets/images/og-image.png
 
   # Set URLs and language code for collections
-  # English   
-  -
-    scope:
+  # English
+  - scope:
       path: _homepage/en/index.md
     values:
       permalink: / # Set as index
-  -
-    scope:
+  - scope:
       path: _pages/en
     values:
       permalink: /:title
-  -
-    scope:
+  - scope:
       path: _campaigns/en
     values:
       permalink: campaigns/:title
-  -
-    scope:
+  - scope:
       path: _working-groups/en
     values:
       permalink: working-groups/:title
   # Spanish
-  -
-    scope:
+  - scope:
       path: _homepage/es/index.md
     values:
       permalink: /es/
       lang: es
-  -
-    scope:
+  - scope:
       path: _pages/es
     values:
       permalink: es/:title # language-specific folder
       lang: es
-  -
-    scope:
+  - scope:
       path: _campaigns/es
     values:
       permalink: es/campanas/:title # language-specific folder
       lang: es
-  -
-    scope:
+  - scope:
       path: _working-groups/es
     values:
       permalink: es/grupos-de-trabajo/:title # language-specific folder
