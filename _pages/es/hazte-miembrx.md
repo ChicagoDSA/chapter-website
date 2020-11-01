@@ -1,9 +1,9 @@
 ---
 lang-ref: join
-title: Hágase miembro de DSA
-description: Inscríbase como miembro. Juntas, podemos construir un mundo mejor.
+title: Hazte miembrx de DSA
+description: Inscríbase como miembrx. Juntas, podemos construir un mundo mejor.
 image: images/DSA-megaphone.png
-image-description: Un miembro de DSA de Chicago dirige cánticos de protesta.
+image-description: Un miembrx de DSA de Chicago dirige cánticos de protesta.
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 

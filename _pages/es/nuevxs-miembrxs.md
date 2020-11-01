@@ -1,10 +1,10 @@
 ---
 lang-ref: new-members
-title: Nuevos miembros
-description: Recursos para ayudar a los nuevos miembros de DSA de Chicago a orientarse.
-subhead: Conoce a los camaradas. Involucrarse.
+title: Nuevxs miembrxs
+description: Recursos para ayudar a lxs nuevxs miembrxs de DSA de Chicago a orientarse.
+subhead: Conoce a lxs camaradxs. Involucrarse.
 image: images/June-5.png
-image-description: "Los manifestantes marchan para #DefundCPD el 5 de junio de 2020. DSA de Chicago apoyó y organizó esta acción. Ayúdenos a planificar la próxima."
+image-description: "Lxs manifestantes marchan para #DefundCPD el 5 de junio de 2020. DSA de Chicago apoyó y organizó esta acción. Ayúdenos a planificar la próxima."
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 

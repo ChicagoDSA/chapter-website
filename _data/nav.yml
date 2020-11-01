@@ -47,10 +47,10 @@ elements:
             default: https://midwestsocialist.com/
       - page:
           en: New members
-          es: Nuevos miembros
+          es: Nuevxs miembrxs
           url:
             en: new-members
-            es: es/nuevos-miembros
+            es: es/nuevxs-miembrxs
   - page:
       en: Events
       es: Eventos
@@ -63,17 +63,3 @@ elements:
       url: 
         en: contact-us
         es: es/contactanos
-
-join:
-  text:
-    en: Join DSA
-    es: Hágase miembro de DSA
-  url: # Override DSA national link
-    default: # Apply a link to all languages
-    en: join
-    es: es/hagase-miembro
-
-back-to-top:
-  en: Back to top
-  es: Ve arriba
-        

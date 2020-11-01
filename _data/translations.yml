@@ -1,14 +1,37 @@
+# Supported languages
 en: English
 es: Español
+
+# Website info
 title:
   en: Chicago DSA
   es: DSA de Chicago
 description:
   en: The official website of the Chicago chapter of the Democratic Socialists of America.
-  es: El sitio web oficial del capítulo de Chicago de los Socialistas Demócratas de América.
+  es: El sitio web oficial del capítulo de Chicago de lxs Socialistxs Demócraticxs de América.
 chapter-name:
   en: Chicago DSA
   es: DSA de Chicago
+
+# Join DSA button
+join:
+  text:
+    en: Join DSA
+    es: Hazte miembrx de DSA
+  url: # Override DSA national link
+    default: # Apply a link to all languages
+    en: join # Or define specific values
+    es: es/hazte-miembrx
+
+# Footer
+follow-us:
+  en: Follow us on social media
+  es: Síguenos en las redes sociales
+back-to-top:
+  en: Back to top
+  es: Volver arriba
+
+# Other content
 photo:
   en: Photo
   es: Foto
