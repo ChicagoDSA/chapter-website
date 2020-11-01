@@ -10,7 +10,7 @@ image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephoto
 
 ## Asistir a una orientación de *¿Qué es CDSA?*
 
-Una vez al mes, Chicago DSA organiza orientaciones para personas interesadas en aprender sobre DSA, para miembros recién inscritos y para miembros existentes que buscan formas de volver a conectarse con el capítulo. Los miembros del capítulo discutirán:
+Una vez al mes, Chicago DSA organiza orientaciones para personas interesadas en aprender sobre DSA, para miembrxs recién inscritos y para miembrxs existentes que buscan formas de volver a conectarse con el capítulo. Lxs miembrxs del capítulo discutirán:
 
 - Los fundamentos del socialismo democrático
 - Estructuras locales y nacionales de DSA
@@ -22,7 +22,7 @@ Representantes de nuestras [campañas](campanas) y [grupos de trabajo](grupos-de
 
 #### Inscríbase al programa de mentores de Rose Buddy
 
-Al final de cada orientación *¿Qué es CDSA?*, lo invitaremos a inscribirse en el programa Rose Buddy, nuestro programa de mentores que une a miembros de CDSA nuevos y experimentados para ayudarlo a conectarse con el capítulo. Durante un período de tres meses, un mentor de DSA de Chicago:
+Al final de cada orientación *¿Qué es CDSA?*, lo invitaremos a inscribirse en el programa Rose Buddy, nuestro programa de mentores que une a miembrxs de CDSA nuevos y experimentados para ayudarlo a conectarse con el capítulo. Durante un período de tres meses, un mentor de DSA de Chicago:
 
 - Programará reuniones individuales
 - Responderá a sus preguntas
