@@ -7,13 +7,6 @@ image-description: Lxs manifestantes ondean banderas palestinas y puertorriqueñ
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-Como un caucus nacional con afiliados locales, AFROSOC aspira a continuar el legado de la organización Negra radical, así como las tradiciones de otras minorías oprimidas. 
-En Chicago, nos apoyamos en revolucionarixs como Fred Hampton del Partido Pantera Negra y lxs Young Lords de Lincoln Park.
-
-## La comunidad es poder
-
-AFROSOC cree que para asegurar un futuro socialista, debemos construir una base de clase trabajadora multirracial. Nosotrxs vivimos en Sur Chicago y La Villita. En Pilsen y en Back of the Yards. Servimos a nuestrxs vecinxs con ayuda mutua, campañas abolicionistas y solidaridad en las calles. Desarrollamos líderes de color de DSA.
-
 {% include comp-button.html text="Ver nuestro Linktree" link="https://linktr.ee/ChicagoAfroSOC" %}
 
 *AFROSOC da la bienvenida a todxs lxs personxs BIPOC. No se requiere membresía de DSA.*
