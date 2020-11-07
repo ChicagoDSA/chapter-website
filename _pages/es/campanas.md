@@ -7,6 +7,4 @@ image-description: Como miembro de la Coalición de Levantar la Prohibición, DS
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
 ---
 
-Cientos de miembros de DSA de Chicago trabajan cada semana para construir una ciudad que funcione para la clase trabajadora. Sondeamos, llamamos a nuestros vecinos, planificamos acciones y organizamos nuestras comunidades. Las campañas son nuestras áreas de enfoque.
-
 {% include list-tiles.html collection="campaigns" %}

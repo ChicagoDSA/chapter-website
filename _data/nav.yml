@@ -14,11 +14,11 @@ elements:
             en: campaigns
             es: es/campanas
       - page:
-          en: The Labor Branch
-          es: La Rama Laboral
+          en: Labor Branch
+          es: Rama Laboral
           url: 
-            en: the-labor-branch
-            es: es/la-rama-laboral
+            en: labor
+            es: es/laboral
       - page:
           en: Political education
           es: Educación política

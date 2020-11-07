@@ -12,14 +12,14 @@ image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephoto
 
 - Repeal the Rent Control Preemption Act of 1997
 - Establish rent control for Chicago residents
-- Guarantee affordable, accessible housing for all
+- Cancel rents and mortgages 
+- Build tenant unions citywide
+- Guarantee housing as a human right rather than a commodity
 {% endcapture %}
 {% include comp-note.html content=demands %}
 
-The Lift the Ban Coalition consists of more than 30 community groups that believe rent control is a necessary first step in taking back power from wealthy developers, curbing gentrification and displacement, and tackling Illinois’ housing crisis. As a member of the coalition, Chicago DSA runs multiple pressure campaigns on local and state politicans, in addition to conducting broad public outreach. 
+As part of the Chicago Tenants Movement, Chicago DSA fights alongside tenants directly organizing for justice and fair treatment from their landlords. And, as part of the Lift the Ban Coalition, we fight to establish rent control statewide as a necessary first step in taking back power from wealthy developers, curbing gentrification and displacement, and tackling Illinois' housing crisis. 
 
-## Get involved
+As a member of these coalitions, Chicago DSA runs pressure campaigns on local and state politicians, specific landlords, and other representatives of the ruling class. We also participate in mass outreach, community defense, and direct tenant organizing. 
 
-Attend a campaign meeting to learn how you can help Lift the Ban phonebank neighbors, run community outreach, and develop legislative strategies.
-
-{% include comp-button.html text="Find an upcoming event" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a" %}
+{% include comp-button.html text="Get involved" link="https://actionnetwork.org/forms/housing-justice-sign-up-and-interest-form/" %}
