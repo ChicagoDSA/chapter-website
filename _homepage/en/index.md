@@ -16,6 +16,8 @@ DSA is the largest socialist organization in the United States. As an entirely v
 
 {% include list-tiles.html collection="campaigns" %}
 
+[Read about CDSA campaigns and why we take them on](campaigns)
+
 ## Events
 
 {% include list-events.html calendar="ksc3uaa38o41o2vz8o" limit=4 %}
