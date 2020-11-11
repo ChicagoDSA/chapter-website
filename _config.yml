@@ -8,7 +8,7 @@ chapter:
   header-logo-png-fallback: "images/CDSA-logo-color.png" # 360px square recommended
   background-logo-svg: "images/CDSA-logo-reverse.svg"
   background-logo-png-fallback: "images/CDSA-logo-reverse.png" # 1440px square recommended
-google_analytics: # Tracking ID
+google_analytics: UA-181307591-1
 teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a
 permalink: pretty
 remote_theme: ChicagoDSA/haymarket@v2.3.1 # Append @vX.X.X to specify a version number
@@ -23,7 +23,7 @@ defaults:
       image: assets/images/og-image.png
 
   # Set URLs and language code for collections
-  # English   
+  # English
   - scope:
       path: _homepage/en/index.md
     values:
@@ -75,3 +75,6 @@ collections:
     output: true
   working-groups:
     output: true
+
+plugins:
+  - jekyll-redirect-from
