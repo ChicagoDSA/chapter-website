@@ -22,4 +22,4 @@ DSA is the largest socialist organization in the United States. As an entirely v
 
 {% include list-events.html calendar="ksc3uaa38o41o2vz8o" limit=4 %}
 
-[View our full calendar](https://teamup.com/ksc3uaa38o41o2vz8o?view=a)
+[View our full calendar](events)

@@ -23,4 +23,4 @@ The Labor Branch is involved in a variety of struggles, including implementing t
 
 We meet every second Tuesday of the month. If you want to learn more, have questions or proposals for the branch, or want to get on our email list and Slack channel, contact [labor@chicagodsa.org](mailto:labor@chicagodsa.org).
 
-{% include comp-button.html text="Find an upcoming event" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a" %}
+{% include comp-button.html text="Find an upcoming event" link="events" %}

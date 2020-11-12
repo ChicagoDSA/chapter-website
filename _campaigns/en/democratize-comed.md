@@ -22,4 +22,4 @@ ComEd is Chicago’s electricity provider, and their contract with the city is u
 
 Attend a campaign meeting to learn how you can help Democratize ComEd conduct research, work with local elected officials, and decarbonize our grid.
 
-{% include comp-button.html text="Find an upcoming event" link="https://teamup.com/ksc3uaa38o41o2vz8o?view=a" %}
+{% include comp-button.html text="Find an upcoming event" link="events" %}

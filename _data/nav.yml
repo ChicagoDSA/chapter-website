@@ -55,8 +55,8 @@ elements:
       en: Events
       es: Eventos
       url: 
-        en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
-        es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
+        en: events
+        es: es/eventos
   - page:
       en: Contact us
       es: Contáctanos
