@@ -10,4 +10,4 @@ The Healthcare Working Group believes that quality healthcare is a fundamental h
 
 Join a meeting to learn more about how you can support Chicago DSA's work to support a healthcare system that works for all of us.
 
-{% include comp-button.html text="Find an upcoming event" link="events" %}
+{% include comp-button.html text="Find an upcoming event" link="/events" %}

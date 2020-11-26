@@ -10,4 +10,4 @@ The Communications Committee handles a broad range of projects and responsibilit
 
 Join an upcoming meeting to learn more about how you can get involved supporting the communication and media efforts of CDSA.
 
-{% include comp-button.html text="Find an upcoming event" link="events" %}
+{% include comp-button.html text="Find an upcoming event" link="/events" %}

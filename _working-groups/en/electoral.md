@@ -10,4 +10,4 @@ The Electoral Working Group is dedicated to advancing socialism, and the particu
 
 Join a meeting to learn more about how you can help elect more socialists.
 
-{% include comp-button.html text="Find an upcoming event" link="events" %}
+{% include comp-button.html text="Find an upcoming event" link="/events" %}

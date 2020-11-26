@@ -10,4 +10,4 @@ We work both within Chicago DSA and in the community to address the ways that ca
 
 Join a meeting to learn more about how you can get involved.
 
-{% include comp-button.html text="Find an upcoming event" link="events" %}
+{% include comp-button.html text="Find an upcoming event" link="/events" %}
