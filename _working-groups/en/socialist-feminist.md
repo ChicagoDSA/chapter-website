@@ -2,6 +2,7 @@
 lang-ref: socialist-feminist
 title: Socialist Feminist
 image: images/abortion-saves-lives.png
+image-description: Members of the CDSA SocFem working group at a rally for abortion rights in Chicago.
 ---
 
 The Socialist Feminist Working Group (SocFem) aims to bring a socialist feminist perspective to Chicago DSA and to the Chicago community. We give focus and priority to female-identifying and non-binary members of the Chicago community who face hardships under capitalism.
