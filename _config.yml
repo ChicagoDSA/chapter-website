@@ -48,27 +48,6 @@ defaults:
       path: _working-groups/en
     values:
       permalink: working-groups/:title
-  # Spanish
-  - scope:
-      path: _homepage/es/index.md
-    values:
-      permalink: /es/
-      lang: es
-  - scope:
-      path: _pages/es
-    values:
-      permalink: es/:title # language-specific folder
-      lang: es
-  - scope:
-      path: _campaigns/es
-    values:
-      permalink: es/campanas/:title # language-specific folder
-      lang: es
-  - scope:
-      path: _working-groups/es
-    values:
-      permalink: es/grupos-de-trabajo/:title # language-specific folder
-      lang: es
 
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
