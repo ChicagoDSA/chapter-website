@@ -14,3 +14,7 @@ Pages within a collection, such as **Defund CPD**, live in their own folders.
 
 Single pages, such as **New members**, live in the `_pages` folder.
 - Generated URL: `my-website.org/page-name/`
+
+## Updating events
+
+Events are managed on [teamup](https://www.teamup.com/). Instructions for adding new events to the calendar are [here](https://docs.google.com/document/d/1uzYh-cazDNuoNRhTttrvU-iuDkyXXDf7thJbU5oBWIg).
