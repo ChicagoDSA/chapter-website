@@ -28,7 +28,7 @@ defaults:
   - scope:
       path: _redirect-to
     values:
-      permalink: /:path
+      permalink: /:path/
 
   # Set URLs and language code for collections
   # English
