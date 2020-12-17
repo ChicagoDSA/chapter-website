@@ -6,6 +6,8 @@ subhead: Meet comrades. Get involved.
 image: images/June-5.png
 image-description: "Protesters march to #DefundCPD on June 5, 2020. Chicago DSA endorsed and organized this action. Help us plan the next one."
 image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
+redirect_from:
+  - /faq
 ---
 
 ## Attend a _What is CDSA?_ orientation

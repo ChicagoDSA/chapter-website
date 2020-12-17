@@ -1,53 +1,35 @@
 menu:
   en: Menu
-  es: Menú
 
 elements:
   - group:
     en: Our priorities
-    es: Nuestro trabajo
     pages:
       - page:
           en: Campaigns
-          es: Campañas
           url:
             en: campaigns
-            es: es/campanas
       - page:
           en: Labor Branch
-          es: Rama Laboral
           url:
             en: labor
-            es: es/laboral
       - page:
-          en: Political education
-          es: Educación política
-          url:
-            en: political-education
-            es: es/educacion-politica
-      - page:
-          en: AFROSOC
+          en: AfroSOC
           url:
             en: afrosoc
-            es: es/afrosoc
   - group:
     en: Our chapter
-    es: Nuestro capítulo
     pages:
       - page:
           en: Working groups
-          es: Grupos de trabajo
           url:
             en: working-groups
-            es: es/grupos-de-trabajo
       - page:
           en: Magazine & podcast
-          es: Revista y podcast
           url:
             default: https://midwestsocialist.com/
       - page:
           en: New members
-          es: Nuevxs miembrxs
           url:
             en: new-members
             es: es/nuevxs-miembrxs
@@ -68,4 +50,3 @@ elements:
       es: Contáctanos
       url:
         en: contact-us
-        es: es/contactanos

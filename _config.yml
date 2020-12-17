@@ -8,10 +8,12 @@ chapter:
   header-logo-png-fallback: "images/CDSA-logo-color.png" # 360px square recommended
   background-logo-svg: "images/CDSA-logo-reverse.svg"
   background-logo-png-fallback: "images/CDSA-logo-reverse.png" # 1440px square recommended
-google_analytics: # Tracking ID
+google_analytics: UA-181307591-1
 teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v2.3.0 # Append @vX.X.X to specify a version number
+remote_theme: ChicagoDSA/haymarket@v2.3.3 # Append @vX.X.X to specify a version number
+plugins:
+  - jekyll-redirect-from
 
 # Set default front matter for Markdown files
 defaults:
@@ -22,8 +24,14 @@ defaults:
       layout: default
       image: assets/images/og-image.png
 
+  # Set redirects relative to base
+  - scope:
+      path: _redirect-to
+    values:
+      permalink: /:path/
+
   # Set URLs and language code for collections
-  # English   
+  # English
   - scope:
       path: _homepage/en/index.md
     values:
@@ -40,31 +48,13 @@ defaults:
       path: _working-groups/en
     values:
       permalink: working-groups/:title
-  # Spanish
-  - scope:
-      path: _homepage/es/index.md
-    values:
-      permalink: /es/
-      lang: es
-  - scope:
-      path: _pages/es
-    values:
-      permalink: es/:title # language-specific folder
-      lang: es
-  - scope:
-      path: _campaigns/es
-    values:
-      permalink: es/campanas/:title # language-specific folder
-      lang: es
-  - scope:
-      path: _working-groups/es
-    values:
-      permalink: es/grupos-de-trabajo/:title # language-specific folder
-      lang: es
 
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
 collections:
+  # Export redirects
+  redirect-to:
+    output: true
   # Homepage translations
   homepage:
     output: true
