@@ -3,31 +3,31 @@ menu:
   es: Menú
 
 elements:
-  - group: 
+  - group:
     en: Our priorities
     es: Nuestro trabajo
     pages:
       - page:
           en: Campaigns
           es: Campañas
-          url: 
+          url:
             en: campaigns
             es: es/campanas
       - page:
           en: Labor Branch
           es: Rama Laboral
-          url: 
+          url:
             en: labor
             es: es/laboral
       - page:
           en: Political education
           es: Educación política
-          url: 
+          url:
             en: political-education
             es: es/educacion-politica
       - page:
           en: AFROSOC
-          url: 
+          url:
             en: afrosoc
             es: es/afrosoc
   - group:
@@ -43,7 +43,7 @@ elements:
       - page:
           en: Magazine & podcast
           es: Revista y podcast
-          url: 
+          url:
             default: https://midwestsocialist.com/
       - page:
           en: New members
@@ -51,15 +51,21 @@ elements:
           url:
             en: new-members
             es: es/nuevxs-miembrxs
+      - page:
+          en: Chapter bylaws
+          es: Estatutos del capítulo
+          url:
+            en: images/cdsa-bylaws.pdf
+            es: images/cdsa-bylaws.pdf
   - page:
       en: Events
       es: Eventos
-      url: 
+      url:
         en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
         es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
   - page:
       en: Contact us
       es: Contáctanos
-      url: 
+      url:
         en: contact-us
         es: es/contactanos
