@@ -1,0 +1,9 @@
+<div id="headline-image-container">
+	<div id="headline-image" class="cover-background" style="background-image: url('{{ include.image-comed | absolute_url }}');"></div>
+	<script>
+		console.log(`{{ include.image-comed }}`)
+	</script>
+	{% if include.description or include.credit %}
+		{% include comp-image-caption.html description=include.description credit=include.credit %}
+	{% endif %}
+</div>
