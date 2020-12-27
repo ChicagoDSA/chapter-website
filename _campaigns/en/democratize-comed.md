@@ -3,6 +3,7 @@ lang-ref: democratize-comed
 title: Democratize ComEd
 description: A people-powered campaign for democratically-controlled energy.
 image: /images/dem-comed-logo.png
+logos: dem-comed
 ---
 
 {% include dem-comed-header-image.html image='/images/dem-comed-logo.png' %}
@@ -26,30 +27,16 @@ Chicago has a chance to fight climate change and the rising monopolies that are 
 
 ## Our partners
 
-[33WWF Logo] https://drive.google.com/file/d/1bjUJWL1Q8oYL0Cul9-WT6OP4iYjJnRXd/view?usp=sharing
-[Link] https://www.workingfamilies33.org/
-[UIC GEO Logo] https://drive.google.com/file/d/1UepiJYm3HUcjZ9byUz6N-oi3glfWREkk/view?usp=sharing
-[Link] https://uic-geo.net/mainsite
-[EESP Logo] https://drive.google.com/file/d/1n2zm5I548hgl4bcx0460r5wLRrs3r1qU/view?usp=sharing
-[Link] http://www.sustainedgewater.org/
-[FWW Logo] https://drive.google.com/file/d/1V83ocmBdsk6dlJbENOcg-Ftkn3b5gU0T/view?usp=sharing
-[Link] https://www.foodandwaterwatch.org/
-[Sunrise Logo] https://drive.google.com/file/d/1haLMbl0w6xMKknBNcIMAhKOl4T5_w8R3/view?usp=sharing
-[Link] https://www.sunrisemovementchicago.org/
+<!-- I want to inject a partial which takes an array. This array would consist of little 2-part arrays. In partial, for each item in the arry, create a little linked logo inside a container. -->
+
+{% assign logos = site.data.logos[page.logos] %}
+
+{% include partner-logos.html logos=logos %}
 
 ## Get involved
 
-To get involved, sign up below! For more information, contact us at demcomed@gmail.com or follow us on social media.
+To get involved, sign up below! For more information, contact us at <demcomed@gmail.com> or follow us on social media - [Twitter](https://www.twitter.com/demcomed), [Facebook](https://www.facebook.com/demcomed), and [Instagram](https://www.instagram.com/demcomed).
 
-[Button] Get Involved!
-[Link] https://actionnetwork.org/forms/join-our-fight-to-democratize-comed
-[Button] Find out more at our website
-[Link] http://www.demcomed.org
-[Button] Twitter
-[Link] https://www.twitter.com/demcomed
-[Button] Facebook
-[Link] https://www.facebook.com/demcomed
-[Button] Instagram
-[Link] https://www.instagram.com/demcomed
+{% include comp-button.html text="Get involved!" link="https://actionnetwork.org/forms/join-our-fight-to-democratize-comed" %}
 
-{% include comp-button.html text="Find an upcoming event" link="/events" %}
+{% include comp-button.html text="Find out more at our website" link="http://www.demcomed.org" %}
