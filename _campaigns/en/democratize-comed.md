@@ -2,12 +2,10 @@
 lang-ref: democratize-comed
 title: Democratize ComEd
 description: A people-powered campaign for democratically-controlled energy.
-image-comed: /images/dem-comed-logo.png
-image-description:
-image-credit:
+image: /images/dem-comed-logo.png
 ---
 
-{% include dem-comed-header-image.html image-comed='/images/dem-comed-logo.png' %}
+{% include dem-comed-header-image.html image='/images/dem-comed-logo.png' %}
 
 {% capture demands %}
 
