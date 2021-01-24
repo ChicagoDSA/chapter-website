@@ -11,9 +11,10 @@ chapter:
 google_analytics: UA-181307591-1
 teamup: cb7ef970fd2b7b1a85acd5a8a2ef6d7f77477648b0963c29c629391742f24c5a
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v2.3.3 # Append @vX.X.X to specify a version number
+remote_theme: ChicagoDSA/haymarket@v2.3.4 # Append @vX.X.X to specify a version number
 plugins:
   - jekyll-redirect-from
+staging_url: cdsa-staging.netlify.app
 
 # Set default front matter for Markdown files
 defaults:

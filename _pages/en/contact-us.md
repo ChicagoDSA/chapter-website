@@ -11,5 +11,5 @@ title: Contact us
 
 For regular updates on chapter activities, check us out on:
 - [Facebook](https://www.facebook.com/ChicagoDemSocialists/)
-- [Instagram](https://www.instagram.com/chicagodsa/])
+- [Instagram](https://www.instagram.com/chicagodsa/)
 - [Twitter](https://twitter.com/ChicagoCityDSA)
