@@ -25,9 +25,13 @@ elements:
           url:
             en: working-groups
       - page:
-          en: Magazine & podcast
+          en: Midwest Socialist
           url:
             default: https://midwestsocialist.com/
+      - page:
+          en: MWS Podcast
+          url:
+            default: https://soundcloud.com/midwestsocialist
       - page:
           en: New members
           url:
