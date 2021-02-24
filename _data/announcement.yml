@@ -1,0 +1,7 @@
+# Add content here to enable a site-wide announcement
+text:
+  en: "**Join us for our first #DemocratizeComEd Week of Action**" # Style your text with Markdown
+  es: # Add translations
+url:
+  default: https://bit.ly/DemComEdWeek # Apply a link to all languages
+  en: # Or add language-specific links
