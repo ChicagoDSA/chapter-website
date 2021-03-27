@@ -54,3 +54,7 @@ elements:
       es: Contáctanos
       url:
         en: contact-us
+  - page: 
+      en: Store
+      url: 
+        default: https://chicagodsa.square.site/s/shop
