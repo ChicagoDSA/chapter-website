@@ -25,14 +25,6 @@ elements:
           url:
             en: working-groups
       - page:
-          en: Midwest Socialist
-          url:
-            default: https://midwestsocialist.com/
-      - page:
-          en: MWS Podcast
-          url:
-            default: https://soundcloud.com/midwestsocialist
-      - page:
           en: New members
           url:
             en: new-members
@@ -50,11 +42,26 @@ elements:
         en: https://teamup.com/ksc3uaa38o41o2vz8o?view=a
         es: https://teamup.com/ksc3uaa38o41o2vz8o?view=a&lang=es
   - page:
-      en: Contact us
+      en: Contact
       es: Contáctanos
       url:
         en: contact-us
+  - group: 
+    en: Media
+    pages:
+      - page:
+          en: Midwest Socialist
+          url:
+            default: https://midwestsocialist.com/
+      - page:
+          en: MWS Podcast
+          url:
+            default: https://soundcloud.com/midwestsocialist
   - page: 
       en: Store
       url: 
         default: https://chicagodsa.square.site/s/shop
+  - page: 
+      en: Donate
+      url: 
+        default: https://secure.actblue.com/donate/cdsa-dues-drive
