@@ -22,6 +22,16 @@ Single pages, such as **New members**, live in the `_pages` folder.
 
 - Generated URL: `my-website.org/page-name/`
 
+### Adding "Updates"
+
+1. Add a markdown file to the `_posts/` subdirectory with the filename format `yyyy-mm-dd-post-title.md`. Jekyll uses the date in the filename to organize the updates, so it is important that they are formatted this way. 
+
+2. Add your update content to the file, and it will appear listed on `your-base-url.com/updates` 
+
+3. If desired, you can control the index page title (if you want something other than "Updates", like "blog" or "announcements") by changing the name of the `updates/` directory and the front matter of `updates/index.html` accordingly. 
+
+Posts are native/baked-in to Jekyll. For more info on how they can be utilized, check out their [documentation](https://jekyllrb.com/docs/posts/).
+
 ## Updating events
 
 Events are managed on [teamup](https://www.teamup.com/). Instructions for adding new events to the calendar are [here](https://docs.google.com/document/d/1uzYh-cazDNuoNRhTttrvU-iuDkyXXDf7thJbU5oBWIg).

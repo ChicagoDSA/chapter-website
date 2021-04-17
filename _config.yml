@@ -15,8 +15,13 @@ remote_theme: ChicagoDSA/haymarket@v2.4.1 # Append @vX.X.X to specify a version 
 plugins:
   - jekyll-webp
   - jekyll-redirect-from
+  - jekyll-paginate
 staging_url: cdsa-staging.netlify.app
 jekyll_webp_installed: true
+
+# Post pagination settings
+paginate: 5
+paginate_path: "updates/page:num/"
 
 ############################################################
 # Site configuration for the WebP Generator Plugin
@@ -105,4 +110,6 @@ collections:
   campaigns:
     output: true
   working-groups:
+    output: true
+  posts: 
     output: true
