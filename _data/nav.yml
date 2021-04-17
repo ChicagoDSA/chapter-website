@@ -57,6 +57,10 @@ elements:
           en: MWS Podcast
           url:
             default: https://soundcloud.com/midwestsocialist
+      - page:
+          en: Twitter
+          url:
+            default: https://twitter.com/chicagodsa
   - page: 
       en: Store
       url: 
