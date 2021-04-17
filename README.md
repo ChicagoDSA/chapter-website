@@ -6,6 +6,19 @@ This site uses the [Haymarket](https://github.com/ChicagoDSA/haymarket) theme.
 
 The two primary branches in this repo are `prod` and `staging`. When making contributions, always branch off of and merge back into staging first. The staging branch is [deployed here](https://cdsa-staging.netlify.app/) via Netlify, and after merging your changes, they will automatically deploy to that link. Once changes are verified and stable, `staging` can then be merged into `prod` which is deployed via GitHub pages. For access to the staging instance on Netlify, reach out to @nickharriscodes here on Github or in the CDSA slack. 
 
+## Running Locally
+
+The website can be run locally in order to test out changes. Make sure you have [ruby](https://www.ruby-lang.org/en/) and [bundler](https://bundler.io/) installed.
+
+Once you clone the repo, make sure you are in the project root and run `bundle install` to install all the dependencies.
+
+To start a local version of the site at http://localhost:4000, run:
+```
+bundle exec jekyll serve --livereload
+```
+The `--livereload` option watches the source files and automatically updates the site.
+It's not necessary but if you are making edits you will probably want to do this.
+
 ## Updating content
 
 The homepage can be edited by opening `_homepage/en/index.md` and clicking on the `Edit this file` button.
