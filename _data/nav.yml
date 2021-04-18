@@ -60,7 +60,7 @@ elements:
       - page:
           en: Twitter
           url:
-            default: https://twitter.com/chicagodsa
+            default: https://twitter.com/ChicagoCityDSA
   - page: 
       en: Store
       url: 
