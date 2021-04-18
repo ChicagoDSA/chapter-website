@@ -46,7 +46,7 @@ elements:
       es: Contáctanos
       url:
         en: contact-us
-  - group: 
+  - group:
     en: Media
     pages:
       - page:
@@ -60,12 +60,12 @@ elements:
       - page:
           en: Twitter
           url:
-            default: https://twitter.com/chicagodsa
-  - page: 
+            default: https://twitter.com/ChicagoCityDSA
+  - page:
       en: Store
-      url: 
+      url:
         default: https://chicagodsa.square.site/s/shop
-  - page: 
+  - page:
       en: Donate
-      url: 
+      url:
         default: https://secure.actblue.com/donate/cdsa-dues-drive
