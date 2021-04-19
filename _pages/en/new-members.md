@@ -3,9 +3,9 @@ lang-ref: new-members
 title: New members
 description: Resources to help new Chicago DSA members get oriented.
 subhead: Meet comrades. Get involved.
-image: images/June-5.png
-image-description: "Protesters march to #DefundCPD on June 5, 2020. Chicago DSA endorsed and organized this action. Help us plan the next one."
-image-credit: "[Sarah-Ji/Love + Struggle Photos](http://www.loveandstrugglephotos.com/)"
+image: images/SouthSide3.jpeg
+image-description: ""
+image-credit: "Chicago DSA"
 redirect_from:
   - /faq
 ---
