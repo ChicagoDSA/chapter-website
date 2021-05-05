@@ -32,3 +32,7 @@ At the end of each _What is CDSA?_ orientation, we’ll invite you to join the R
 
 Sign up for a Rose Buddy here: <http://bit.ly/getrosebuddy>  
 Contact us at <newmember@chicagodsa.org>
+
+#### Member Resources
+- <a href="/images/CDSA_Member_Manual_v.2.pdf" target="_blank">CDSA Member Manual</a>
+- <a href="/images/CDSA_Organizational_Chart_(2021.02.20).pdf" target="_blank">CDSA Org Chart</a>
