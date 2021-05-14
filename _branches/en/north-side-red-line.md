@@ -8,6 +8,6 @@ Create a democratic, welcoming space for Northside socialists to learn, organize
 
 ## Get involved
 
-Committee members/contact info:nsr-steering@chicagodsa.org
+Committee members/contact info: [nsr-steering@chicagodsa.org](mailto:nsr-steering@chicagodsa.org)
 
 {% include comp-button.html text="Find an upcoming event" link="/events" %}

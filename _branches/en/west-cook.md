@@ -11,7 +11,9 @@ Our activities have included local electoral work, housing justice, mutual aid, 
 
 We have monthly general branch membership meetings that we try to schedule on weekend afternoons (historically the second Sunday of the month from 1-3 PM) except when this conflicts with Chapter activities. We also have a Branch Facebook page and google group. The google group is dedicated to DSA related discussions between Branch members.
 
-We encourage all Branch members to join our google group (west-cook-cdsa+unsubscribe@googlegroups.com).
+We encourage all Branch members to join our google group:
+
+[west-cook-cdsa+unsubscribe@googlegroups.com](mailto:west-cook-cdsa+unsubscribe@googlegroups.com).
 
 {% include comp-button.html text="Find an upcoming event" link="/events" %}
 

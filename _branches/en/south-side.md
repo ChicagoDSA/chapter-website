@@ -12,6 +12,6 @@ As a member of South Side Mutual Aid Solidarity (MAS), we engage in programs to 
 
 ## Get involved
 
-Email us at southside@chicagodsa.org, or message our [Facebook page](https://www.facebook.com/Chicagodsa)
+Email us at [southside@chicagodsa.org](southside@chicagodsa.org), or message our [Facebook page](https://www.facebook.com/Chicagodsa)
 
 {% include comp-button.html text="Find an upcoming event" link="/events" %}

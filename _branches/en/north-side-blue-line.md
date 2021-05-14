@@ -10,7 +10,7 @@ To find ways to connect with the working class to build a chapter that is more r
 
 ## Get involved
 
-Committee members/contact info: nsblue@chicagodsa.org
+Committee members/contact info: [nsblue@chicagodsa.org](mailto:nsblue@chicagodsa.org)
 
 {% include comp-button.html text="Find an upcoming event" link="/events" %}
 
