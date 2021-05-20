@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+	{% include head-container.html %}
+	<body>
+		{% include header-container-no-title.html %}
+		{% if page.image != site.defaults[0].values.image %}
+			{% include header-image.html image=page.image description=page.image-description credit=page.image-credit %}
+		{% endif %}
+		<main id="main-content" role="main">{{ content }}</main>
+		{% include footer-container.html %}
+	</body>
+</html>
