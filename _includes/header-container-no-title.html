@@ -1,0 +1,15 @@
+{% include header-announcement.html %}
+<banner id="page-header" role="banner">
+	{% include header-DSA-logo.html %}
+	<div id="project-area">
+		{% include header-top-buttons.html %} 
+		{% if site.data.nav.elements %}
+			{% include comp-mobile-menu.html %}
+		{% endif %}
+		{% include header-chapter.html %} 
+		{% if site.data.nav.elements %}
+			{% include comp-desktop-menu.html %}
+		{% endif %}
+		{% include header-title-no-title.html %} 
+	</div>
+</banner>
