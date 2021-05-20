@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 	{% include head-container.html %}
-	<body>
+	<style>
+		#headline-image-container #headline-image-webp {
+			max-width: 72rem;	
+			border-left: 3px solid #ec1f27;
+			border-right: 3px solid #ec1f27;
+			border-bottom: 3px solid #ec1f27;
+		}
+		#headline-image-container {
+			max-width: 72rem;	
+		}
+
+	</style>
+	<body style="background-color: #fff8f7;">
 		{% include header-container-no-title.html %}
 		{% if page.image != site.defaults[0].values.image %}
 			{% include header-image.html image=page.image description=page.image-description credit=page.image-credit %}
