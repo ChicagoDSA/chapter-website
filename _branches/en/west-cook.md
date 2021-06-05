@@ -5,11 +5,12 @@ title: West Cook Branch
 
 ## Mission
 
-Our activities have included local electoral work, housing justice, mutual aid, Fair Tax, LaSalle Street Tax, and “Defund the Police” work.
+The West Cook Branch advocates for democratic socialism on the Chicago’s West Side and Western Suburbs. This includes organizing or participating in local events that align with our values, lobbying elected officials on policy and working on local political campaigns. The Branch is also working to bridge gaps between the suburbs and disenfranchised communities of color.
 
 ## Get involved
 
-We have monthly general branch membership meetings that we try to schedule on weekend afternoons (historically the second Sunday of the month from 1-3 PM) except when this conflicts with Chapter activities. We also have a Branch Facebook page and google group. The google group is dedicated to DSA related discussions between Branch members.
+Anyone interested in participating with the West Cook branch should attend one of our monthly branch meetings which are listed on the CDSA Calendar. You can also follow our [Facebook Page](https://www.facebook.com/WCCDSA). General email inquiries can be sent to [westcook@chicagodsa.org](mailto:westcook@chicagodsa.org).
+
 
 We encourage all Branch members to join our google group:
 
