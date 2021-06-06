@@ -22,6 +22,6 @@ Policing and incarceration have become, as abolitionist scholar Ruth Wilson Gilm
 
 ## Get involved
 
-Attend a project committee meeting to get involved with canvassing, political education, and direct action. [Sign up for our project committee](https://actionnetwork.org/forms/join-chicago-dsas-campaign-to-defund-cpd-fund-our-communities/) and [sign the Defund CPD petition](https://actionnetwork.org/forms/sign-on-to-demand-defunding-of-the-chicago-police-department). For more information, contact [defundcpd@chicagodsa.org](defundcpd@chicagodsa.org).
+Attend a project committee meeting to get involved with canvassing, political education, and direct action. [Sign up for our project committee](https://actionnetwork.org/forms/join-chicago-dsas-campaign-to-defund-cpd-fund-our-communities/) and [sign the Defund CPD petition](https://actionnetwork.org/forms/sign-on-to-demand-defunding-of-the-chicago-police-department). For more information, contact [defundcpd@chicagodsa.org](mailto:defundcpd@chicagodsa.org).
 
 {% include comp-button.html text="Find an upcoming event" link="/events" %}
