@@ -94,6 +94,10 @@ defaults:
       path: _working-groups/en
     values:
       permalink: working-groups/:title
+  - scope:
+      path: _branches/en
+    values:
+      permalink: branches/:title
 
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
@@ -112,4 +116,6 @@ collections:
   working-groups:
     output: true
   posts: 
+    output: true
+  branches:
     output: true

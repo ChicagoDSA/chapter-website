@@ -25,6 +25,10 @@ elements:
           url:
             en: working-groups
       - page:
+          en: Branches
+          url:
+            en: branches
+      - page:
           en: New members
           url:
             en: new-members

@@ -1,0 +1,3 @@
+{% if page.subhead %}
+	<p id="tagline">{{ page.subhead | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines }}</p>
+{% endif %}
