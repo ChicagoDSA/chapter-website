@@ -11,18 +11,39 @@
       background-color: #ec1f27;
       display: flex;
       justify-content: center;
+      padding-top: 6px;
     }
     hr {
       box-sizing: content-box;
       height: 10px !important;
       background-color: #3b2462 !important;
     }
+
+    .con-nav-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 50px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: white;
+    }
+    .nav-btn {
+      padding: 0px 20px;
+    }
   </style>
   <body>
-    <div>Special nav for this page</div>
-    {% if page.image != site.defaults[0].values.image %} {% include
-    header-image.html image=page.image description=page.image-description
-    credit=page.image-credit %} {% endif %}
+    <div class="con-nav-container">
+      <div class="nav-btn">MENU</div>
+      <div class="nav-btn">REGISTER</div>
+    </div>
+    <div style="padding-top: 50px">
+      {% if page.image != site.defaults[0].values.image %} {% include
+      header-image.html image=page.image description=page.image-description
+      credit=page.image-credit %} {% endif %}
+    </div>
     <main id="main-content" role="main">{{ content }}</main>
     {% include footer-container.html %}
   </body>
