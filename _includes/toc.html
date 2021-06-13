@@ -13,6 +13,12 @@
   const tocTitle = document.querySelector(".toc-title");
   const sideNavContainer = document.getElementById("sideNavContainer");
   const mainSiteLink = document.querySelector(".main-site");
+  const liEls = Array.from(document.getElementsByTagName('li'));
+  liEls.forEach((el) => {
+    el.addEventListener("click", () => {
+      closeNav();
+    })
+  })
   markdownToc.style.display = "none";
   tocTitle.style.display = "none";
   mainSiteLink.style.display = "none";

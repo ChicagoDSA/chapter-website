@@ -37,11 +37,11 @@ To conduct chapter business, our bylaws require that there is a quorum of at lea
 
 These timelines are based on those laid out in the [CDSA Chapter ByLaws](https://chicagodsa.org/images/cdsa-bylaws.pdf) and the Pre-Convention Rules and Procedures.
 
-June 16th Convention Agenda Released  
-June 23rd 11:59pm Amendments to ALL Convention Proposals Due  
-June 25th 12:00pm Amendments posted  
-June 26th 11:30am Virtual Sign In & Tech Support  
-June 26th 12:00pm Chapter Convention Begins
+**June 16th** Convention Agenda Released  
+**June 23rd 11:59pm** Amendments to ALL Convention Proposals Due  
+**June 25th 12:00pm** Amendments posted  
+**June 26th 11:30am** Virtual Sign In & Tech Support  
+**June 26th 12:00pm** Chapter Convention Begins
 
 <hr>
 
