@@ -22,6 +22,8 @@ Gathering as a membership, CDSA's highest decision-making body, we will be engag
 
 The **agenda** is currently being developed and will include the final Towards a Socialist Chicago (TaSC) priorities document as well as the implementation plan from the Transparency and Accountability Ad Hoc Committee. We invite you to stay up to date on TaSC key information by reviewing the TaSC toolkit here.
 
+<hr>
+
 ## Registration & Zoom Information
 
 In order to receive the Zoom link to the meeting, you must register for the meeting on [Action Network](https://actionnetwork.org/events/chicago-dsa-june-chapter-convention-registration) before 11:59pm on April 25th 2021. Please note that this meeting will require a password that you will be sent upon registration.
@@ -29,6 +31,8 @@ In order to receive the Zoom link to the meeting, you must register for the meet
 In order to receive the link to participate in the votes, you must be a member in good standing. If you are not, [sign up here](http://dsausa.org/join). If you are unsure about your membership status, please contact Liz Kantor at [e.a.kantor@gmail.com](mailto:e.a.kantor@gmail.com).
 
 To conduct chapter business, our bylaws require that there is a quorum of at least 10% of our members in attendance.
+
+<hr>
 
 ## Timeline
 
@@ -39,6 +43,8 @@ June 23rd 11:59pm Amendments to ALL Convention Proposals Due
 June 25th 12:00pm Amendments posted  
 June 26th 11:30am Virtual Sign In & Tech Support  
 June 26th 12:00pm Chapter Convention Begins
+
+<hr>
 
 ## Pre-Convention Technology Rules and Procedures
 
@@ -94,6 +100,8 @@ Members can submit amendments using [this form](https://forms.gle/etStd15DNv5R2L
 
 No more than two amendments will be considered per proposal, except in the case of the Towards a Socialist Chicago Proposal, which may receive more if time allows. If there are more than two amendments per proposal, then the chairs (or their designees) will attempt to consolidate those amendments into 3 or less.
 
+<hr>
+
 ## Convention Special Meeting Rules (not yet adopted)
 
 These rules must be voted on and adopted at the top of the meeting. Adopting these rules helps keep the meeting efficient while also allowing for as much debate as possible on our business items.
@@ -103,6 +111,8 @@ These rules must be voted on and adopted at the top of the meeting. Adopting the
 3. Each proposal will be motivated by one speaker who will have 4 minutes to motivate their proposal.
 4. All speakers during debate will have 2 min to speak.
 5. When votes are called, they will be open on the voting tool for 60 seconds.
+
+<hr>
 
 ## What you need to know about Robert's Rules
 
