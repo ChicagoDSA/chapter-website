@@ -3,7 +3,7 @@ lang-ref: convention
 title: 2021 Chapter Convention
 image: images/CDSA-2021-Chapter-Convention-June-26-1024x512.png
 image-description: ""
-layout: no-title-h1
+layout: convention
 ---
 
 # 2021 Chicago DSA Convention

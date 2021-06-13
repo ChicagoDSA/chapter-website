@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  {% include head-container.html %}
+  <style>
+    #headline-image-container #headline-image-webp {
+      max-width: 72rem;
+      border-left: 3px solid #ec1f27;
+      border-right: 3px solid #ec1f27;
+      border-bottom: 3px solid #ec1f27;
+    }
+    #headline-image-container {
+      max-width: 72rem;
+    }
+  </style>
+  <body>
+    {% include header-container-con.html %} {% if page.image !=
+    site.defaults[0].values.image %} {% include header-image.html
+    image=page.image description=page.image-description credit=page.image-credit
+    %} {% endif %}
+    <main id="main-content" role="main">{{ content }}</main>
+    {% include footer-container.html %}
+  </body>
+</html>
