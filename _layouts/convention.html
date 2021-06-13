@@ -29,15 +29,88 @@
       left: 0;
       width: 100%;
       background-color: white;
+      border: 1px solid;
     }
     .nav-btn {
       padding: 0px 20px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      color: black;
+    }
+    .left {
+      border-right: 1px solid;
+    }
+    .right {
+      border-left: 1px solid;
+    }
+  </style>
+  <style>
+    /* Table of contents element */
+
+    .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+    }
+
+    .sidenav a {
+      text-decoration: none;
+      font-size: 18px;
+      color: white;
+      display: block;
+      transition: 0.3s;
+    }
+
+    .sidenav a:hover {
+      color: #f1f1f1;
+    }
+
+    .sidenav .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }
+
+    .toc-title,
+    .main-site {
+      text-align: center;
+      color: white;
+    }
+
+    .toc-list ul {
+      list-style: disc;
+      list-style-position: outside;
+      padding-left: 0;
+    }
+    .toc-list ul ul {
+      list-style: disc;
+      list-style-position: outside;
+      padding-left: 0 !important;
     }
   </style>
   <body>
     <div class="con-nav-container">
-      <div class="nav-btn">MENU</div>
-      <div class="nav-btn">REGISTER</div>
+      <a class="nav-btn left open-btn">
+        <div>&#9776; MENU</div>
+      </a>
+      <a
+        href="https://actionnetwork.org/events/chicago-dsa-june-chapter-convention-registration"
+        target="_blank"
+        rel="nofollow"
+        class="nav-btn right"
+      >
+        <div>REGISTER</div>
+      </a>
     </div>
     <div style="padding-top: 50px">
       {% if page.image != site.defaults[0].values.image %} {% include

@@ -8,11 +8,10 @@ layout: convention
 
 # 2021 Chicago DSA Convention
 
-### Saturday, June 26th, 2021 11:30am to 3:00pm
+**Saturday, June 26th, 2021 11:30am to 3:00pm**
 
-## Contents
-
-[List of jump links to all the sections listed below]
+{::options parse_block_html="true" /}
+{% include toc.html %}
 
 <hr>
 
@@ -50,21 +49,21 @@ June 26th 12:00pm Chapter Convention Begins
 
 These rules and procedures were adopted at our June 12th EC meeting.
 
-### Agenda Accomodations for Virtual Sign in & Tech Support
+**Agenda Accomodations for Virtual Sign in & Tech Support**
 
 The meeting will begin at 11:30am with 30 min for virtual sign in and tech support for members logging into the voting tool. However, in order to account for additional sign in time that may be needed due to members signing in right at noon, and time needed to reach quorum for voting, the first item on the agenda will be the political education portion of the meeting.
 
-### Action Network Meeting Registration
+**Action Network Meeting Registration**
 
 Attendees must [register](https://actionnetwork.org/events/chicago-dsa-june-chapter-convention-registration) on Action Network form to attend the meeting. Only confirmed members will receive the link to participate in the votes. If a member is not in good standing, they need to [update their membership](http://dsausa.org/join) prior to the meeting in order to vote and count toward quorum, though non-members can observe.
 
-### Proposal Question & Answer Procedure
+**Proposal Question & Answer Procedure**
 
 Since most questions are disallowed by Robert’s Rules during the meeting itself, members will be able to submit questions for bylaws amendment and proposal authors in advance of the meeting, using the same timeline as the Amendment Procedure.
 
 Questions must be submitted using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfEAprxFTGSK3lWQOidCFUS9PLmvlQW-jRSYizlwH3UPlpkDw/viewform?usp=sf_link) by end of day Wednesday June 23rd, and will be sent to the appropriate proposal author(s) by email. Responses from authors will be compiled and circulated to the membership within 24 hours of the chapter meeting. If for any reason the author is unable to respond to question(s) within the specified timeframe, they may choose to address those questions in their motivation for their proposal during the meeting.
 
-### Zoom Meeting – All registrants
+**Zoom Meeting – All registrants**
 
 This Zoom meeting will require a password. You will be sent the password upon registering in the action network and again upon registering with the Zoom link.
 Zoom Features
@@ -73,7 +72,7 @@ Microphones muted
 Closed Captioning is available
 Translation line available if any members indicate such need in their registration
 
-### Voting tool - Members in good standing only
+**Voting tool - Members in good standing only**
 
 [See tutorial here](https://www.youtube.com/watch?v=x2uKo07zvnQ). At the beginning of the meeting, members will receive a link to log into that will be used for motions, debate, and votes during business-related portions of the meeting.
 
@@ -92,7 +91,7 @@ We will use this tool for the following:
 
 All motions and amendments will be uploaded ahead of time into the voting tool. Any substantive motions made throughout the meeting will be added in real time.
 
-### Amendment Procedure and Timeline
+**Amendment Procedure and Timeline**
 
 Due to this meeting being virtual, and due to the size of the meeting, members must submit amendments to the business-related items on the agenda prior to the meeting. Amendments to all proposals on the agenda will be due by end of day Wednesday June 23rd. Amendments will be posted on the agenda within 24 hours of the chapter mtg. Amendments must be substantive. Stylistic amendments and amendments to whereas clauses or proposal rationale will be deprioritized for the sake of time.
 
