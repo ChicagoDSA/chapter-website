@@ -163,9 +163,9 @@ The general membership is the largest and most powerful governing body in our ch
 We use Robert’s Rules of Order to conduct all our business meetings. It is important for all members of CDSA to familiarize ourselves with Robert’s Rules to make sure the meetings run smoothly. It’s also important for members to be aware of what rights they have in a meeting. Robert’s Rules are intended to make debate more transparent and accessible. If you’re not sure what is going on or don’t know how to do something procedural, get on stack with a “point of information.” The chair will recognize you and answer your question before continuing with debate.
 
 Here are some resources to review to brush up on essential robert's rules motions:  
-[Cheat Sheet](https://diphi.web.unc.edu/wp-content/uploads/sites/2645/2012/02/MSG-ROBERTS_RULES_CHEAT_SHEET.pdf)
-[Robert's Rules of Order: The Basics](https://www.pta.org/docs/default-source/files/training/course-tools/president/english/roberts-rules-of-order-basics)
-[Voting Card for General Body Meetings](https://drive.google.com/file/d/1xFubeUzm7ghR28zJhBhHRHWyiZjNjVd6/view)
+[Cheat Sheet](https://diphi.web.unc.edu/wp-content/uploads/sites/2645/2012/02/MSG-ROBERTS_RULES_CHEAT_SHEET.pdf)  
+[Robert's Rules of Order: The Basics](https://www.pta.org/docs/default-source/files/training/course-tools/president/english/roberts-rules-of-order-basics)  
+[Voting Card for General Body Meetings](https://drive.google.com/file/d/1xFubeUzm7ghR28zJhBhHRHWyiZjNjVd6/view)  
 
 <hr>
 
