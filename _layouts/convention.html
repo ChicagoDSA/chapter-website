@@ -3,8 +3,10 @@
   {% include head-container.html %}
   <style>
     #headline-image-webp {
-      max-width: 64rem;
-      border: 3px solid #ec1f27;
+      max-width: 45rem;
+    }
+    .image-caption {
+      display: none;
     }
     #headline-image-container {
       max-width: 100%;
@@ -12,6 +14,11 @@
       display: flex;
       justify-content: center;
       padding-top: 6px;
+    }
+    #headline-image-container #headline-image-webp {
+      height: auto;
+      border-left: 0.5rem solid #ec1f27;
+      border-right: 0.5rem solid #ec1f27;
     }
     hr {
       box-sizing: content-box;
@@ -120,8 +127,8 @@
     </div>
     <div style="padding-top: 50px">
       {% if page.image != site.defaults[0].values.image %} {% include
-      header-image.html image=page.image description=page.image-description
-      credit=page.image-credit %} {% endif %}
+      header-image-con.html image=page.image description=page.image-description
+      credit=page.image-credit link=page.image-link %} {% endif %}
     </div>
     <main id="main-content" role="main">{{ content }}</main>
     {% include footer-container.html %}
