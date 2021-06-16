@@ -116,6 +116,8 @@ These rules must be voted on and adopted at the top of the meeting. Adopting the
 
 ## Agenda
 
+11:30am to 3:00pm  
+
 **Meeting Chairs** - Melinda Bunnage, Robin Peterson, Chapter Co-Chairs  
 **Minutes** - Will Bloom, Chapter Secretary  
 **Parliamentarian** - Keefer Dunn
