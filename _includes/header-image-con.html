@@ -1,0 +1,26 @@
+<div id="headline-image-container">
+  {% if site.jekyll_webp_installed %}
+  <a href="{{ include.link }}" target="_blank" rel="nofollow">
+    <picture>
+      <source
+        srcset="{{ include.image | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}"
+        type="image/webp"
+      />
+      <img
+        id="headline-image-webp"
+        class="cover-background"
+        loading="lazy"
+        src="{{ include.image | relative_url }}"
+      />
+    </picture>
+  </a>
+  {% else %}
+  <div
+    id="headline-image"
+    class="cover-background"
+    style="background-image: url('{{ include.image | relative_url }}');"
+  ></div>
+  {% endif %} {% if include.description or include.credit %} {% include
+  comp-image-caption.html description=include.description credit=include.credit
+  %} {% endif %}
+</div>

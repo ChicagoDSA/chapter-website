@@ -1,7 +1,7 @@
 # Add content here to enable a site-wide announcement
 text:
-  en: # Style your text with Markdown
+  en: "**Our chapter convention is coming up!** Find out how you can participate" # Style your text with Markdown
   es: # Add translations
 url:
-  default: # Apply a link to all languages
+  default: "/convention-2021" # Apply a link to all languages
   en: # Or add language-specific links

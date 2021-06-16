@@ -1,8 +1,9 @@
 ---
 lang-ref: convention
 title: 2021 Chapter Convention
-image: images/CDSA-2021-Chapter-Convention-June-26-1024x512.png
+image: images/convention-hero-new.png
 image-description: ""
+image-link: "https://bit.ly/CDSACon0626"
 layout: convention
 ---
 
@@ -19,15 +20,15 @@ layout: convention
 
 Gathering as a membership, CDSA's highest decision-making body, we will be engaging in important debate and votes about our policies and priorities. We will also vote on the **consent agenda**, at which time the General Membership may take any action (ratify, amend, repeal) regarding votes taken by the Executive Committee since the General Chapter Meeting (GCM) in April. These can be found in the #ec-votes channel on the CDSA Slack.
 
-The **agenda** is currently being developed and will include the final Towards a Socialist Chicago (TaSC) priorities document as well as the implementation plan from the Transparency and Accountability Ad Hoc Committee. We invite you to stay up to date on TaSC key information by reviewing the TaSC toolkit here.
+The **agenda** is currently being developed and will include the final Towards a Socialist Chicago (TaSC) priorities document as well as the implementation plan from the Transparency and Accountability Ad Hoc Committee. We invite you to stay up to date on TaSC key information by reviewing the TaSC toolkit [here](http://bit.ly/TaSCToolkit).
 
 <hr>
 
 ## Registration & Zoom Information
 
-In order to receive the Zoom link to the meeting, you must register for the meeting on [Action Network](https://actionnetwork.org/events/chicago-dsa-june-chapter-convention-registration) before 11:59pm on April 25th 2021. Please note that this meeting will require a password that you will be sent upon registration.
+In order to receive the Zoom link to the meeting, you must register for the meeting on [Action Network](https://actionnetwork.org/events/chicago-dsa-june-chapter-convention-registration) before 11:59pm on June 25th 2021. Please note that this meeting will require a password that you will be sent upon registration.
 
-In order to receive the link to participate in the votes, you must be a member in good standing. If you are not, [sign up here](http://dsausa.org/join). If you are unsure about your membership status, please contact Liz Kantor at [e.a.kantor@gmail.com](mailto:e.a.kantor@gmail.com).
+In order to receive the link to participate in the votes, you must be a member in good standing. If you are not, [sign up here](http://dsausa.org/join). If you are unsure about your membership status, please contact Liz Kantor at [survey@chicagodsa.org](mailto:survey@chicagodsa.org).
 
 To conduct chapter business, our bylaws require that there is a quorum of at least 10% of our members in attendance.
 
@@ -37,11 +38,11 @@ To conduct chapter business, our bylaws require that there is a quorum of at lea
 
 These timelines are based on those laid out in the [CDSA Chapter ByLaws](https://chicagodsa.org/images/cdsa-bylaws.pdf) and the Pre-Convention Rules and Procedures.
 
-June 16th Convention Agenda Released  
-June 23rd 11:59pm Amendments to ALL Convention Proposals Due  
-June 25th 12:00pm Amendments posted  
-June 26th 11:30am Virtual Sign In & Tech Support  
-June 26th 12:00pm Chapter Convention Begins
+**June 16th** Convention Agenda Released  
+**June 23rd 11:59pm** Amendments to ALL Convention Proposals Due  
+**June 25th 12:00pm** Amendments posted  
+**June 26th 11:30am** Virtual Sign In & Tech Support  
+**June 26th 12:00pm** Chapter Convention Begins
 
 <hr>
 
@@ -113,16 +114,63 @@ These rules must be voted on and adopted at the top of the meeting. Adopting the
 
 <hr>
 
+## Agenda
+
+**Meeting Chairs** - Melinda Bunnage, Robin Peterson, Chapter Co-Chairs  
+**Minutes** - Will Bloom, Chapter Secretary  
+**Parliamentarian** - Keefer Dunn
+
+**I.** Virtual Sign in and Tech Support (30 min)  
+**II.** Welcome (5 min)  
+ &nbsp;&nbsp;&nbsp;**A.** Feminist Process & Zoom Etiquette  
+**III.** Presentation from National Palestine/BDS Working Group - (15 min)  
+**IV.** Announcements (10 min)  
+ &nbsp;&nbsp;&nbsp;**A.** Announce Results of Officer Elections  
+ &nbsp;&nbsp;&nbsp;**B.** Electoral Working Subcommittees  
+**V.** Approve Meeting Agenda & Special Meeting Rules (10 min)  
+**VI.** [Consent Agenda](https://docs.google.com/document/d/14SU40fo70KR9Dfpco67y9zKK__Iw55icYR6LT4Vfn7w/edit?ts=60c8c0a6) (10 min)  
+ &nbsp;&nbsp;&nbsp;**A.** See Understanding the Consent Agenda below for an explanation of what this is.  
+**VII.** Treasurer’s Update & Budget Approval (10 min)  
+**VIII.** Break (5 min)  
+**IX.** [TASC](https://drive.google.com/file/d/1dYFxlcQfLKS9pKBmLutckPGXcgR9JGi4/view?usp=sharing) (30 min)  
+**X.** [TAP Committee Recommendations](https://drive.google.com/file/d/1ILV4nXbRKqIOJziSr31kma2JtGzymxOb/view?usp=sharing) (20 min)  
+**XI.** Break (5 min)  
+**XII.** Bylaws Amendments (60 min)  
+&nbsp;&nbsp;&nbsp;**A.** [Amendment to Create a Standing Secretariat](https://drive.google.com/file/d/1ikw-m1mo6gvr2CGpB60FCDnaBIouvElB/view?usp=sharing) (20 min)  
+ &nbsp;&nbsp;&nbsp;**B.** [Amendment to Reform the Executive Committee](https://docs.google.com/document/d/1JdLaYIVTR_0MALY7RWtIncaDJRZOOSpK/edit) (20 min)  
+ &nbsp;&nbsp;&nbsp;**C.** [Amendment to Update Membership Mtg Criteria](https://drive.google.com/file/d/1U6TAZERnsUwIQ0HUKUyq_WL1Ydh2MQHo/view) (20 min)  
+**XIII.** Adjourn Meeting
+
+**Feminist Process**
+
+1. Feminist Process
+2. Respect the discussion and the facilitators
+3. Share the air and encourage others
+4. Consider your social position
+5. Make “I” statements
+6. Do not assign motives
+
+**Zoom Etiquette**  
+Turn your video on if you can but please turn it off if you have to step away
+
+**Understanding the Consent Agenda**
+
+The general membership is the largest and most powerful governing body in our chapter. Therefore the general membership has the right to review all the votes taken by the EC since our last general membership meeting. The general membership must either vote to approve the entire consent agenda, or they can motion and vote to strip an item from the consent agenda to be debated and either approved or revoked. Our special rules that we will vote on will allow ten minutes for debate for an item stripped from the consent agenda.
+
+<hr>
+
 ## What you need to know about Robert's Rules
 
 We use Robert’s Rules of Order to conduct all our business meetings. It is important for all members of CDSA to familiarize ourselves with Robert’s Rules to make sure the meetings run smoothly. It’s also important for members to be aware of what rights they have in a meeting. Robert’s Rules are intended to make debate more transparent and accessible. If you’re not sure what is going on or don’t know how to do something procedural, get on stack with a “point of information.” The chair will recognize you and answer your question before continuing with debate.
 
 Here are some resources to review to brush up on essential robert's rules motions:  
-[Cheat Sheet](https://diphi.web.unc.edu/wp-content/uploads/sites/2645/2012/02/MSG-ROBERTS_RULES_CHEAT_SHEET.pdf)  
+[Cheat Sheet](https://diphi.web.unc.edu/wp-content/uploads/sites/2645/2012/02/MSG-ROBERTS_RULES_CHEAT_SHEET.pdf)
+[Robert's Rules of Order: The Basics](https://www.pta.org/docs/default-source/files/training/course-tools/president/english/roberts-rules-of-order-basics)
 [Voting Card for General Body Meetings](https://drive.google.com/file/d/1xFubeUzm7ghR28zJhBhHRHWyiZjNjVd6/view)
 
-<!--
-[Future Content]
+<hr>
 
-Agenda and Proposals
-List agenda and link proposals -->
+## Further Information
+
+Other questions about the convention?  
+Reach out with questions at [co-chair-1@chicagodsa.org](mailto:co-chair-1@chicagodsa.org).
