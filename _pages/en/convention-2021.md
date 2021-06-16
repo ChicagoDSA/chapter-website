@@ -20,7 +20,7 @@ layout: convention
 
 Gathering as a membership, CDSA's highest decision-making body, we will be engaging in important debate and votes about our policies and priorities. We will also vote on the [consent agenda](https://docs.google.com/document/d/14SU40fo70KR9Dfpco67y9zKK__Iw55icYR6LT4Vfn7w/edit?ts=60c8c0a6), at which time the General Membership may take any action (ratify, amend, repeal) regarding votes taken by the Executive Committee since the General Chapter Meeting (GCM) in April. These can be found in the #ec-votes channel on the CDSA Slack.
 
-The [agenda](#agenda) is currently being developed and will include the final Towards a Socialist Chicago (TaSC) priorities document as well as the implementation plan from the Transparency and Accountability Ad Hoc Committee. We invite you to stay up to date on TaSC key information by reviewing the TaSC toolkit [here](http://bit.ly/TaSCToolkit).
+The [agenda](#agenda) is below and includes the final Towards a Socialist Chicago (TaSC) priorities document as well as the implementation plan from the Transparency and Accountability Ad Hoc Committee. We invite you to stay up to date on TaSC key information by reviewing the TaSC toolkit [here](http://bit.ly/TaSCToolkit).
 
 <hr>
 
