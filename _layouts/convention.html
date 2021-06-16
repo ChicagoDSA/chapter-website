@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+  {% include head-container.html %}
+  <style>
+    #headline-image-webp {
+      max-width: 45rem;
+    }
+    .image-caption {
+      display: none;
+    }
+    #headline-image-container {
+      max-width: 100%;
+      background-color: #ec1f27;
+      display: flex;
+      justify-content: center;
+      padding-top: 6px;
+    }
+    #headline-image-container #headline-image-webp {
+      height: auto;
+      border-left: 0.5rem solid #ec1f27;
+      border-right: 0.5rem solid #ec1f27;
+    }
+    hr {
+      box-sizing: content-box;
+      height: 10px !important;
+      background-color: #3b2462 !important;
+    }
+
+    .con-nav-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 50px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: white;
+      border: 1px solid;
+    }
+    .nav-btn {
+      padding: 0px 20px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      color: black;
+    }
+    .left {
+      border-right: 1px solid;
+    }
+    .right {
+      border-left: 1px solid;
+    }
+    :target::before {
+      content: "";
+      display: block;
+      height: 60px; /* fixed header height*/
+      margin: -60px 0 0; /* negative fixed header height */
+    }
+  </style>
+  <style>
+    /* Table of contents element */
+
+    .sidenav {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #111;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+    }
+
+    .sidenav a {
+      text-decoration: none;
+      font-size: 18px;
+      color: white;
+      display: block;
+      transition: 0.3s;
+    }
+
+    .sidenav a:hover {
+      color: #f1f1f1;
+    }
+
+    .sidenav .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }
+
+    .toc-title,
+    .main-site {
+      text-align: center;
+      color: white;
+    }
+
+    .toc-list ul {
+      list-style: disc;
+      list-style-position: outside;
+      padding-left: 0;
+    }
+    .toc-list ul ul {
+      list-style: disc;
+      list-style-position: outside;
+      padding-left: 0 !important;
+    }
+  </style>
+  <body>
+    <div class="con-nav-container">
+      <a class="nav-btn left open-btn">
+        <div>&#9776; MENU</div>
+      </a>
+      <a
+        href="https://actionnetwork.org/events/chicago-dsa-june-chapter-convention-registration"
+        target="_blank"
+        rel="nofollow"
+        class="nav-btn right"
+      >
+        <div>REGISTER</div>
+      </a>
+    </div>
+    <div style="padding-top: 50px">
+      {% if page.image != site.defaults[0].values.image %} {% include
+      header-image-con.html image=page.image description=page.image-description
+      credit=page.image-credit link=page.image-link %} {% endif %}
+    </div>
+    <main id="main-content" role="main">{{ content }}</main>
+    {% include footer-container.html %}
+  </body>
+</html>

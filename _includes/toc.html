@@ -1,0 +1,57 @@
+<div id="sideNavContainer" class="sidenav">
+  <strong class="toc-title">MENU</strong>
+  <span class="closebtn">&times;</span>
+  <div class="toc-list">
+  * this unordered seed list will be replaced by toc as unordered list 
+  {:toc}
+  </div>
+  <a href="/" class="main-site"><strong>&#8592; Back to main site</strong></a>
+</div>
+<script>
+  let isOpen = false;
+  const markdownToc = document.querySelector("#markdown-toc");
+  const tocTitle = document.querySelector(".toc-title");
+  const sideNavContainer = document.getElementById("sideNavContainer");
+  const mainSiteLink = document.querySelector(".main-site");
+  const liEls = Array.from(document.getElementsByTagName('li'));
+  liEls.forEach((el) => {
+    el.addEventListener("click", () => {
+      closeNav();
+    })
+  })
+  markdownToc.style.display = "none";
+  tocTitle.style.display = "none";
+  mainSiteLink.style.display = "none";
+  document.querySelector(".open-btn").onclick = function () {
+    openNav();
+  };
+  document.querySelector(".closebtn").onclick = function () {
+    closeNav();
+  };
+  sideNavContainer.addEventListener("click", function (event) {
+    event.stopPropagation();
+  });
+  function openNav() {
+    sideNavContainer.style.width = "350px";
+    sideNavContainer.style.paddingRight = "10px";
+    setTimeout(function () {
+      markdownToc.style.display = "block";
+      tocTitle.style.display = "block";
+      mainSiteLink.style.display = "block";
+      isOpen = true;
+    }, 400);
+  }
+  function closeNav() {
+    isOpen = false;
+    markdownToc.style.display = "none";
+    tocTitle.style.display = "none";
+    mainSiteLink.style.display = "none";
+    sideNavContainer.style.width = "0px";
+    sideNavContainer.style.paddingRight = "0px";
+  }
+  document.addEventListener("click", function (event) {
+    if (isOpen) {
+      closeNav();
+    }
+  });
+</script>
