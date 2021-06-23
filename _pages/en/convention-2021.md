@@ -139,7 +139,7 @@ These rules must be voted on and adopted at the top of the meeting. Adopting the
 **XI.** Break (5 min)  
 **XII.** Bylaws Amendments (60 min)  
 &nbsp;&nbsp;&nbsp;**A.** [Amendment to Create a Standing Secretariat](https://drive.google.com/file/d/1ikw-m1mo6gvr2CGpB60FCDnaBIouvElB/view?usp=sharing) (20 min)  
- &nbsp;&nbsp;&nbsp;**B.** [Amendment to Reform the Executive Committee](https://docs.google.com/document/d/1JdLaYIVTR_0MALY7RWtIncaDJRZOOSpK/edit) (20 min)  
+ &nbsp;&nbsp;&nbsp;**B.** [Amendment to Reform the Executive Committee](https://drive.google.com/file/d/1DsdUwQIT45-dLiW6ch42nTA89I4uNqyc/view) (20 min)  
  &nbsp;&nbsp;&nbsp;**C.** [Amendment to Update Membership Mtg Criteria](https://drive.google.com/file/d/1U6TAZERnsUwIQ0HUKUyq_WL1Ydh2MQHo/view) (20 min)  
 **XIII.** Adjourn Meeting
 
