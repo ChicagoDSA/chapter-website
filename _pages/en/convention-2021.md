@@ -116,7 +116,7 @@ These rules must be voted on and adopted at the top of the meeting. Adopting the
 
 ## Agenda
 
-11:30am to 3:00pm  
+11:30am to 3:00pm
 
 **Meeting Chairs** - Melinda Bunnage, Robin Peterson, Chapter Co-Chairs  
 **Minutes** - Will Bloom, Chapter Secretary  
@@ -135,12 +135,16 @@ These rules must be voted on and adopted at the top of the meeting. Adopting the
 **VII.** Treasurer’s Update & Budget Approval (10 min)  
 **VIII.** Break (5 min)  
 **IX.** [TASC](https://drive.google.com/file/d/1dYFxlcQfLKS9pKBmLutckPGXcgR9JGi4/view?usp=sharing) (30 min)  
+ &nbsp;&nbsp;&nbsp;**A.** [Amendment 1 - Stephen Thompson](https://docs.google.com/document/d/1ZAmGhjktgzEZR_qDnE11RioNpLuRabPzDdH2bpHr1Uk/edit?usp=sharing)  
+ &nbsp;&nbsp;&nbsp;**B.** [Amendment 2 - Kelly Mulligan](https://docs.google.com/document/d/13EkgO7RcYyn9xosaYXoKazaCJz0O8SvQP3y5DH6WMPg/edit?usp=sharing)  
 **X.** [TAP Committee Recommendations](https://drive.google.com/file/d/1ILV4nXbRKqIOJziSr31kma2JtGzymxOb/view?usp=sharing) (20 min)  
 **XI.** Break (5 min)  
 **XII.** Bylaws Amendments (60 min)  
 &nbsp;&nbsp;&nbsp;**A.** [Amendment to Create a Standing Secretariat](https://drive.google.com/file/d/1ikw-m1mo6gvr2CGpB60FCDnaBIouvElB/view?usp=sharing) (20 min)  
  &nbsp;&nbsp;&nbsp;**B.** [Amendment to Reform the Executive Committee](https://drive.google.com/file/d/1DsdUwQIT45-dLiW6ch42nTA89I4uNqyc/view) (20 min)  
- &nbsp;&nbsp;&nbsp;**C.** [Amendment to Update Membership Mtg Criteria](https://drive.google.com/file/d/1U6TAZERnsUwIQ0HUKUyq_WL1Ydh2MQHo/view) (20 min)  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** [Amendment 1 - Issac Silver](https://docs.google.com/document/d/1mFjkyVNuMllypGg5enTnSktVN_1tLjqDu75dA3Ozgec/edit?usp=sharing)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Amendment 2 - Dann McKeegan & Dimitri McDonald  
+&nbsp;&nbsp;&nbsp;**C.** [Amendment to Update Membership Mtg Criteria](https://drive.google.com/file/d/1U6TAZERnsUwIQ0HUKUyq_WL1Ydh2MQHo/view) (20 min)  
 **XIII.** Adjourn Meeting
 
 **Feminist Process**
@@ -167,7 +171,7 @@ We use Robert’s Rules of Order to conduct all our business meetings. It is imp
 Here are some resources to review to brush up on essential robert's rules motions:  
 [Cheat Sheet](https://diphi.web.unc.edu/wp-content/uploads/sites/2645/2012/02/MSG-ROBERTS_RULES_CHEAT_SHEET.pdf)  
 [Robert's Rules of Order: The Basics](https://www.pta.org/docs/default-source/files/training/course-tools/president/english/roberts-rules-of-order-basics)  
-[Voting Card for General Body Meetings](https://drive.google.com/file/d/1xFubeUzm7ghR28zJhBhHRHWyiZjNjVd6/view)  
+[Voting Card for General Body Meetings](https://drive.google.com/file/d/1xFubeUzm7ghR28zJhBhHRHWyiZjNjVd6/view)
 
 <hr>
 
