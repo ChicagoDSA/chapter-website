@@ -8,6 +8,8 @@ Create a democratic, welcoming space for Northside socialists to learn, organize
 
 ## Get involved
 
-Committee members/contact info: [nsr-steering@chicagodsa.org](mailto:nsr-steering@chicagodsa.org)
+Email the steering committee at: [nsr-steering@chicagodsa.org](mailto:nsr-steering@chicagodsa.org)
+
+Emily M. (she), Megan H. (she), Tina G. (she), Marie L. (she), Naftali E. (he), Jen Z. (she), Dana K. (she), Dennis K. (he), Isa J. (she), Angela J. (they/she), Brian B. (he), Soleil S. (she)
 
 {% include comp-button.html text="Find an upcoming event" link="/events" %}

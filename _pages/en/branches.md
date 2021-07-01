@@ -1,7 +1,6 @@
 ---
 lang-ref: branches
-title: Branches
-description: The heart of Chicago DSA is our working groups.
+title: Territorial Branches
 ---
 
 Chicago DSA currently has four territorial branches, defined by zip codes. Each branch has an elected steering committee that plans regular branch meetings. The steering committee members also serve on the chapter’s Executive Committee as Branch Representatives for one-year terms (from June 30th to July 31st). Each branch also has a mutual aid solidarity (MAS) subcommittee that engages members in mutual aid projects. See below for more information about the territorial branches and how to get involved!
