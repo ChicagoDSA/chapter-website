@@ -1,7 +1,6 @@
 ---
 lang-ref: west-cook
 title: West Cook Branch
-image: images/west-cook-header.jpg
 ---
 
 ## Mission
