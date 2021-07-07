@@ -3,6 +3,8 @@
 
 @import 'jekyll-theme-haymarket';
 
+// To disable zoom on scroll when you have an iframed google map:
+// https://stackoverflow.com/questions/21992498/disable-mouse-scroll-wheel-zoom-on-embedded-google-maps
 .overlay {
     background:transparent; 
     position:relative; 
