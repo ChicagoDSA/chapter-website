@@ -1,0 +1,13 @@
+---
+---
+
+@import 'jekyll-theme-haymarket';
+
+.overlay {
+    background:transparent; 
+    position:relative; 
+    width:700px;
+    height:480px; /* your iframe height */
+    top:480px;  /* your iframe height */
+    margin-top:-480px;  /* your iframe height */
+}
