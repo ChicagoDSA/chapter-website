@@ -1,7 +1,6 @@
 ---
 lang-ref: south-side
 title: South Side Branch
-image: images/SouthSide3.jpeg
 ---
 
 ## Mission
