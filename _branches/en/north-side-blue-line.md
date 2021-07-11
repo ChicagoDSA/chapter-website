@@ -5,12 +5,12 @@ title: North Side Blue Line Branch
 
 ## Mission
 To find ways to connect with the working class to build a chapter that is more representative of the multi-racial working class.
-- Northside Blue Line Mutual Aid Solidarity
-- Lori Doesn’t CARES
 
 ## Get involved
 
-Committee members/contact info: [nsblue@chicagodsa.org](mailto:nsblue@chicagodsa.org)
+Email the steering committee at: [nsblue@chicagodsa.org](mailto:nsblue@chicagodsa.org)
+
+Alan M, Anna F (she/her), Anthony Q, Courtney G (she/her), Emilie S (she/her), Emily H (she/they), John T (he/him), Ken B (he/they), Leonard P (he), Lillian O, Liz K (she/her), Marcy F (she/her), Marvin B, Nick C, Sarah H, Sean D (they/them)
 
 {% include comp-button.html text="Find an upcoming event" link="/events" %}
 

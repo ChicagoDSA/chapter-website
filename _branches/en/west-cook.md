@@ -11,10 +11,13 @@ The West Cook Branch advocates for democratic socialism on the Chicago’s West 
 
 Anyone interested in participating with the West Cook branch should attend one of our monthly branch meetings which are listed on the CDSA Calendar. You can also follow our [Facebook Page](https://www.facebook.com/WCCDSA). General email inquiries can be sent to [westcook@chicagodsa.org](mailto:westcook@chicagodsa.org).
 
+### Committee members/contact info:
 
-We encourage all Branch members to join our google group:
-
-[west-cook-cdsa+unsubscribe@googlegroups.com](mailto:west-cook-cdsa+unsubscribe@googlegroups.com).
+| Carrol Smith (she/her) | Co-Chair (smithcarrola@gmail.com) |
+| Ron Baiman (he/him) | Co-Chair (baiman@sbcglobal.net ) |
+| Matt Cotten (he/him) | Secretary (mc@mattcotten.com) |
+| Dave Peterson (he/him) | EC Representative (davenpeterson@gmail.com) |
+| Tamer Abouzeid (he/they) | EC Representative (ty.abouzeid@gmail.com) |
 
 {% include comp-button.html text="Find an upcoming event" link="/events" %}
 
