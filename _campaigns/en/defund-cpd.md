@@ -50,7 +50,7 @@ Our core demand is to immediately reduce the CPD budget as we struggle for and t
 
 Want to join us? The best first steps for getting involved are to [sign the Defund CPD petition](http://bit.ly/DemandDefundCPD) and [sign up for our #DefundCPD project committee](https://actionnetwork.org/forms/join-chicago-dsas-campaign-to-defund-cpd-fund-our-communities/). In that project committee meeting we’ll share opportunities for political education and direct action to #DefundCPD.
 
-For more upcoming events, please check out our [#DefundCPD Calendar](https://docs.google.com/document/d/1Eih3SIAZUPHwrA0dJ72UV3cQzJ70JJL4UtUJ7xKdAFg/edit?usp=sharing). You can also find upcoming events for all our campaigns on the [Chicago DSA Calendar](https://teamup.com/ksc3uaa38o41o2vz8o?view=a).
+For more upcoming events, please check out the [Chicago DSA Calendar](https://teamup.com/ksc3uaa38o41o2vz8o?view=a).
 
 ## What are CDSA’s Campaign Priorities?
 
