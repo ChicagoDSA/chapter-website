@@ -8,9 +8,8 @@ public_folder: "images/"
 collections:
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
-    folder: "_pages/en" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "---" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
     files:
       - label: "Afrosoc"
         name: "afrosoc"
