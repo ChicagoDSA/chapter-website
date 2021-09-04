@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
-  branch: prod # Branch to update (optional; defaults to master)
+  name: github
+  repo: ChicagoDSA/chapter-website
+  branch: prod
+  site_domain: cdsa-staging.netlify.app
 media_folder: "images/"
 public_folder: "images/"
 collections:
