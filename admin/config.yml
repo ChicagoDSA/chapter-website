@@ -2,7 +2,7 @@ backend:
   name: github
   repo: ChicagoDSA/chapter-website
   branch: prod
-  site_domain: cdsa-staging.netlify.app
+  site_domain: condescending-mestorf-98f7e3.netlify.app
 media_folder: "images/"
 public_folder: "images/"
 collections:
