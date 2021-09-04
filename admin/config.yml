@@ -22,10 +22,4 @@ collections:
               widget: "hidden",
               default: "about",
             }
-          - {
-              label: "Layout",
-              name: "layout",
-              widget: "hidden",
-              default: "about",
-            }
           - { label: "Body", name: "body", widget: "markdown" }
