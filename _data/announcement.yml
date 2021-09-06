@@ -1,7 +1,2 @@
-# Add content here to enable a site-wide announcement
-text:
-  en: # Style your text with Markdown
-  es: # Add translations
-url:
-  default: # Apply a link to all languages
-  en: # Or add language-specific links
+text: ""
+url: ""

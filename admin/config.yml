@@ -8,21 +8,30 @@ media_folder: "images/"
 public_folder: "images/"
 
 collections:
-- name: 'config'
-  label: 'Config'
-  editor:
-    preview: false
-  files:
-    - label: 'Banner Announcement'
-      name: 'banner'
-      file: '_data/announcemnet.yml'
-      fields:
-        - label: 'Text'
-          name: 'text'
-          widget: 'string'
-        - label: 'Link'
-          name: 'url'
-          widget: 'string'
+  - name: "config"
+    label: "Config"
+    editor:
+      preview: false
+    files:
+      - label: "Banner Announcement"
+        name: "banner"
+        file: "_data/announcement.yml"
+        extension: "yml"
+        fields:
+          - { 
+              name: text,
+              label: "Text",
+              widget: "markdown",
+              default: "",
+              required: false
+            }
+          - { 
+              name: "url",
+              label: "Link",
+              widget: "string",
+              default: "",
+              required: false
+            }
   - name: "press-updates" # Used in routes, e.g., /admin/collections/blog
     label: "Press" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
@@ -41,25 +50,93 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - {
           label: "Featured Image",
-          name: "thumbnail",
+          name: "image",
           widget: "image",
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages" # Used in routes, e.g., /admin/collections/blog
-    label: "Pages" # Used in the UI
+  - name: "pages" 
+    label: "Pages"
     editor:
       preview: false
-    files:
-      - label: "Afrosoc"
-        name: "afrosoc"
-        file: "_pages/en/afrosoc.md"
-        fields:
-          - {
-              label: "Title",
-              name: "title",
-              widget: "hidden",
-              default: "about",
-            }
-          - { label: "Body", name: "body", widget: "markdown" }
-          
+    folder: "_pages/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "campaigns" 
+    label: "Campaigns"
+    editor:
+      preview: false
+    folder: "_campaigns/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "branches"
+    label: "Branches"
+    editor:
+      preview: false
+    folder: "_branches/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "working-groups" 
+    label: "Working Groups"
+    editor:
+      preview: false
+    folder: "_working-groups/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "homepage" 
+    label: "Homepage"
+    editor:
+      preview: false
+    folder: "_homepage/en"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
