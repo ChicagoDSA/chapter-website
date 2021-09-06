@@ -8,21 +8,21 @@ media_folder: "images/"
 public_folder: "images/"
 
 collections:
-- name: 'config'
-  label: 'Config'
-  editor:
-    preview: false
-  files:
-    - label: 'Banner Announcement'
-      name: 'banner'
-      file: '_data/announcemnet.yml'
-      fields:
-        - label: 'Text'
-          name: 'text'
-          widget: 'string'
-        - label: 'Link'
-          name: 'url'
-          widget: 'string'
+  - name: "config"
+    label: "Config"
+    editor:
+      preview: false
+    files:
+      - label: "Banner Announcement"
+        name: "banner"
+        file: "_data/announcemnet.yml"
+        fields:
+          - label: "Text"
+            name: "text"
+            widget: "string"
+          - label: "Link"
+            name: "url"
+            widget: "string"
   - name: "press-updates" # Used in routes, e.g., /admin/collections/blog
     label: "Press" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
@@ -62,4 +62,3 @@ collections:
               default: "about",
             }
           - { label: "Body", name: "body", widget: "markdown" }
-          
