@@ -15,7 +15,7 @@ collections:
     files:
       - label: "Banner Announcement"
         name: "banner"
-        file: "_data/announcemnet.yml"
+        file: "_data/announcement.yml"
         fields:
           - label: "Text"
             name: "text"
