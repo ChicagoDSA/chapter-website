@@ -19,15 +19,17 @@ collections:
         extension: "yml"
         fields:
           - { 
-              name: text
-              label: "Text"
-              widget: "markdown"
+              name: text,
+              label: "Text",
+              widget: "markdown",
+              default: "",
               required: false
             }
           - { 
-              name: "url"
-              label: "Link"
-              widget: "string"
+              name: "url",
+              label: "Link",
+              widget: "string",
+              default: "",
               required: false
             }
   - name: "press-updates" # Used in routes, e.g., /admin/collections/blog
