@@ -19,12 +19,14 @@ collections:
         fields:
           - label: "Text"
             name: "text"
-            fields: 
-              - { name: "en", widget: "markdown" }
+            field: {
+              label: "EN", name: "en", widget: "markdown" 
+            }
           - label: "Link"
             name: "url"
-            fields:
-              - { name: "default", widget: "string" }
+            field: {
+              label: "Default", name: "default", widget: "string" 
+            }
   - name: "press-updates" # Used in routes, e.g., /admin/collections/blog
     label: "Press" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored

@@ -1,8 +1,6 @@
 text:
-  ? en
-  ? es
+  en: 
+  es: 
 url:
-  ? default
-  ? en
-text.en: "**Take a look at our branches page and see where you fit in**"
-url.en: https://chicagodsa.org/branches
+  default: 
+  en: 
