@@ -41,24 +41,93 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - {
           label: "Featured Image",
-          name: "thumbnail",
+          name: "image",
           widget: "image",
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "pages" # Used in routes, e.g., /admin/collections/blog
-    label: "Pages" # Used in the UI
+  - name: "pages" 
+    label: "Pages"
     editor:
       preview: false
-    files:
-      - label: "Afrosoc"
-        name: "afrosoc"
-        file: "_pages/en/afrosoc.md"
-        fields:
-          - {
-              label: "Title",
-              name: "title",
-              widget: "hidden",
-              default: "about",
-            }
-          - { label: "Body", name: "body", widget: "markdown" }
+    folder: "_pages/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "campaigns" 
+    label: "Campaigns"
+    editor:
+      preview: false
+    folder: "_campaigns/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "branches"
+    label: "Branches"
+    editor:
+      preview: false
+    folder: "_branches/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "working-groups" 
+    label: "Working Groups"
+    editor:
+      preview: false
+    folder: "_working-groups/en"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "homepage" 
+    label: "Homepage"
+    editor:
+      preview: false
+    folder: "_homepage/en"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - {
+          label: "Featured Image",
+          name: "image",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
