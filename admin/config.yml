@@ -8,11 +8,26 @@ media_folder: "images/"
 public_folder: "images/"
 
 collections:
+- name: 'config'
+  label: 'Config'
+  editor:
+    preview: false
+  files:
+    - label: 'Banner Announcement'
+      name: 'banner'
+      file: '_data/announcemnet.yml'
+      fields:
+        - label: 'Text'
+          name: 'text'
+          widget: 'string'
+        - label: 'Link'
+          name: 'url'
+          widget: 'string'
   - name: "press-updates" # Used in routes, e.g., /admin/collections/blog
     label: "Press" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "YYYY-MM-DD-title.md" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {
           label: "Layout",
@@ -30,13 +45,6 @@ collections:
           widget: "image",
           required: false,
         }
-      - {
-          label: "Category",
-          name: "category",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Summary", name: "summary", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
@@ -54,3 +62,4 @@ collections:
               default: "about",
             }
           - { label: "Body", name: "body", widget: "markdown" }
+          
