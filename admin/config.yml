@@ -16,17 +16,14 @@ collections:
       - label: "Banner Announcement"
         name: "banner"
         file: "_data/announcement.yml"
+        extension: "yml"
         fields:
-          - label: "Text"
-            name: "text"
-            field: {
-              label: "EN", name: "en", widget: "markdown" 
-            }
-          - label: "Link"
-            name: "url"
-            field: {
-              label: "Default", name: "default", widget: "string" 
-            }
+          - name: text
+            label: "Text"
+            widget: "markdown"
+          - name: "url"
+            label: "Link"
+            widget: "string"
   - name: "press-updates" # Used in routes, e.g., /admin/collections/blog
     label: "Press" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
