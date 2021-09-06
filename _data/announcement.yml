@@ -1,7 +1,8 @@
-# Add content here to enable a site-wide announcement
 text:
-  en: # Style your text with Markdown
-  es: # Add translations
+  ? en
+  ? es
 url:
-  default: # Apply a link to all languages
-  en: # Or add language-specific links
+  ? default
+  ? en
+text.en: "**Take a look at our branches page and see where you fit in!**"
+url.en: https://chicagodsa.org/branches
