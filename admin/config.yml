@@ -18,11 +18,13 @@ collections:
         file: "_data/announcement.yml"
         fields:
           - label: "Text"
-            name: text.en
-            widget: "markdown"
+            name: "text"
+            fields: 
+              - { name: "en", widget: "markdown" }
           - label: "Link"
-            name: url.default
-            widget: "string"
+            name: "url"
+            fields:
+              - { name: "default", widget: "string" }
   - name: "press-updates" # Used in routes, e.g., /admin/collections/blog
     label: "Press" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
