@@ -19,7 +19,7 @@ collections:
         fields:
           - label: "Text"
             name: "text"
-            widget: "string"
+            widget: "markdown"
           - label: "Link"
             name: "url"
             widget: "string"

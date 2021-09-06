@@ -115,7 +115,7 @@ collections:
     output: true
   working-groups:
     output: true
-  posts: 
+  posts:
     output: true
   branches:
     output: true
