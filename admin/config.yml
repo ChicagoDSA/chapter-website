@@ -18,10 +18,10 @@ collections:
         file: "_data/announcement.yml"
         fields:
           - label: "Text"
-            name: "text.en"
+            name: text.en
             widget: "markdown"
           - label: "Link"
-            name: "url.en"
+            name: url.default
             widget: "string"
   - name: "press-updates" # Used in routes, e.g., /admin/collections/blog
     label: "Press" # Used in the UI
