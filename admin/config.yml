@@ -30,13 +30,6 @@ collections:
           widget: "image",
           required: false,
         }
-      - {
-          label: "Category",
-          name: "category",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Summary", name: "summary", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
     label: "Pages" # Used in the UI
