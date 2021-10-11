@@ -4,8 +4,6 @@ title: Political Education and Policy Committee
 description: Education by and for the Working Class
 ---
 
-**Rotating quotes thing**
-
 {% include rotating-quotes.html %}
 
 Things suck under capitalism. Your rent keeps rising, your landlord’s an asshole, it’s hard to find a job, and, when you do finally get one, your boss works you long hours for little pay, and there’s no union to help. You’re in debt, you can’t afford any time off, which makes you anxious and stressed, so you get a psychiatrist, but your health insurance (if you’re lucky enough to have it) charges you exorbitant out-of-pocket fees. Meanwhile, police keep shooting unarmed Black people, there’s a raging pandemic killing millions, the planet is burning up, and there are 60 million Americans living in poverty. Yet rich people keep getting richer, Amazon doesn’t pay any taxes, the CEO of Starbucks gets paid 700 times more than a barista that works for him, and the top 50 richest Americans have more wealth than the bottom 50 percent combined.

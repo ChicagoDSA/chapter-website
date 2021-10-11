@@ -2,7 +2,10 @@
   .quote-el {
     position: absolute;
     top: 0;
+    bottom: 0;
+    height: fit-content;
   }
+
   .fade-in {
     animation: fadeIn 0.3s;
   }
@@ -27,9 +30,19 @@
   }
 </style>
 <div
-  id="quotes-container"
-  style="position: relative; height: 0; padding-bottom: 30%; margin: 0 auto"
-></div>
+  class="outer-quotes-container"
+  style="
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(233, 29, 35, 0.2);
+    padding: 0 15px 0 15px;
+    border-radius: 5px;
+  "
+>
+  <div id="quotes-container" style="position: relative; width: 100%"></div>
+</div>
 <script>
   const quotes = [
     {
@@ -59,73 +72,63 @@
     },
   ];
 
-  function rotate(quotes) {
+  function createQuotes() {
     quotes.forEach((quoteContent, i) => {
-      console.log(i);
       if (i > 0) {
         const quoteContainer = document.getElementById("quotes-container");
-        const quoteEl = document.createElement("p");
+        const quoteEl = document.createElement("div");
         quoteEl.classList.add("quote-el");
-        quoteEl.classList.add(`quote-${i}`);
         quoteEl.style = "display: none;";
-        quoteEl.classList.add("fade-in");
-        quoteEl.textContent = `${quoteContent.quote}`;
+
+        // create child els, and append to the quote el, then add quote el to the container
+        const quoteTextEl = document.createElement("p");
+        const quoteTextEmEl = document.createElement("em");
+        quoteTextEmEl.textContent = `${quoteContent.quote}`;
+        quoteTextEl.appendChild(quoteTextEmEl);
+        quoteEl.appendChild(quoteTextEl);
+
+        const authorTextEl = document.createElement("p");
+        const authorTextStrongEl = document.createElement("strong");
+        const authorTextSourceEl = document.createElement("span");
+        authorTextStrongEl.textContent = `- ${quoteContent.author}`;
+        authorTextSourceEl.textContent = `, ${quoteContent.source}`;
+        authorTextEl.appendChild(authorTextStrongEl);
+        authorTextEl.appendChild(authorTextSourceEl);
+        quoteEl.appendChild(authorTextEl);
+
         quoteContainer.appendChild(quoteEl);
       }
     });
+  }
 
-    // now all quotes are initiated,
-    // for each with setTimeouts to display block,
-    // for each with setTimeouts to remove fade in and add fade out to display none (x10K time, to create a 5 sec gap)
-
-    quotes.forEach((quoteContent, i) => {
-      if (i === 1) {
-        const quoteEl = document.querySelector(`.quote-${i}`);
-        quoteEl.style = "display: block";
-      }
-
-      if (i > 1) {
-        const quoteEl = document.querySelector(`.quote-${i}`);
-        setTimeout(() => {
-          quoteEl.style = "display: block";
-        }, i * 5000);
-      }
-    });
-
-    quotes.forEach((quoteContent, i) => {
-      if (i > 0) {
-        const quoteEl = document.querySelector(`.quote-${i}`);
-        setTimeout(() => {
-          quoteEl.classList.remove("fade-in");
-          quoteEl.classList.add("fade-out");
-          quoteEl.style = "display: none;";
-        }, i * 5000 + 5000);
-      }
-    });
-
-    quotes.forEach((quoteContent, i) => {
-      if (i > 0) {
-        const quoteEl = document.querySelector(`.quote-${i}`);
-        setTimeout(() => {
-          quoteEl.style = "display: none;";
-        }, i * 5000 + 5400);
-      }
+  function rotate() {
+    const quoteContainer = document.getElementById("quotes-container");
+    const quoteEls = Array.from(document.getElementsByClassName("quote-el"));
+    quoteEls.forEach((quoteEl, i) => {
+      setTimeout(() => {
+        quoteEl.classList.remove("fade-out");
+        quoteEl.classList.add("fade-in");
+        quoteEl.style = "display: block; margin-top: -1em";
+        quoteContainer.style.height = `${quoteEl.offsetHeight}px`;
+      }, i * 5000);
+      setTimeout(() => {
+        quoteEl.classList.remove("fade-in");
+        quoteEl.classList.add("fade-out");
+      }, i * 5000 + 5000);
+      setTimeout(() => {
+        quoteEl.style = "display: none;";
+      }, i * 5000 + 5300);
     });
   }
 
   // Gets called when page loads and whenever the rotate function is on the last quote
   function initRotateQuotes() {
-    console.log(quotes);
-    rotate(quotes);
+    createQuotes();
+    rotate();
+    setInterval(() => {
+      rotate();
+    }, (quotes.length - 2) * 5000 + 5300);
   }
   // initially starts the rotation on page load
   initRotateQuotes();
-
-  // contains all the quotes in an array
-  // script that runs through every item in array
-  // 1. create a paragraph with the quote's content
-  // 2. fade it in
-  // 3. wait 5 sec
-  // 4. fade it out, and start over with the next quote
-  // 5. if the index is the last one, start over.
 </script>
