@@ -27,7 +27,7 @@ paginate_path: "updates/page:num/"
 # Site configuration for the WebP Generator Plugin
 # The values here represent the defaults if nothing is set
 webp:
-  enabled: false
+  enabled: true
 
   # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
   quality: 75
@@ -102,6 +102,10 @@ defaults:
       path: _political-education/en
     values:
       permalink: political-education/:title
+  - scope:
+      path: _programs/en
+    values:
+      permalink: political-education/programs/:title
 
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
@@ -124,4 +128,6 @@ collections:
   branches:
     output: true
   political-education:
+    output: true
+  programs:
     output: true
