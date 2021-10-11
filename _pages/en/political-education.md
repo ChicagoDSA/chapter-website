@@ -6,6 +6,8 @@ description: Education by and for the Working Class
 
 **Rotating quotes thing**
 
+{% include rotating-quotes.html %}
+
 Things suck under capitalism. Your rent keeps rising, your landlord’s an asshole, it’s hard to find a job, and, when you do finally get one, your boss works you long hours for little pay, and there’s no union to help. You’re in debt, you can’t afford any time off, which makes you anxious and stressed, so you get a psychiatrist, but your health insurance (if you’re lucky enough to have it) charges you exorbitant out-of-pocket fees. Meanwhile, police keep shooting unarmed Black people, there’s a raging pandemic killing millions, the planet is burning up, and there are 60 million Americans living in poverty. Yet rich people keep getting richer, Amazon doesn’t pay any taxes, the CEO of Starbucks gets paid 700 times more than a barista that works for him, and the top 50 richest Americans have more wealth than the bottom 50 percent combined.
 
 Throughout our daily lives, capitalist exploitation robs us, the working class, of the value that we produce and confines us to the prison of necessity. We work hard, we literally create all of society’s wealth, yet the bosses and owners keep the profits and reap the rewards of our labor, while tossing us back scraps and poverty wages. This exploitation alienates us from each other, society, nature, and even ourselves. Meanwhile, capitalism’s ideological apparatus bombards us with propaganda that clouds, distorts, and conceals reality – obscuring who is responsible for this unjust state of affairs while telling us that it’s our own fault if we didn’t pull ourselves up by our bootstraps and get rich. It confuses and divides us, eroding solidarity and discouraging collective action.

@@ -1,0 +1,131 @@
+<style>
+  .quote-el {
+    position: absolute;
+    top: 0;
+  }
+  .fade-in {
+    animation: fadeIn 0.3s;
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .fade-out {
+    animation: fadeOut 0.3s;
+  }
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+</style>
+<div
+  id="quotes-container"
+  style="position: relative; height: 0; padding-bottom: 30%; margin: 0 auto"
+></div>
+<script>
+  const quotes = [
+    {
+      quote: null,
+      author: null,
+      source: null,
+    },
+    {
+      quote:
+        "People must know where they are going, and why…. The future remains a closed book so long as the consciousness of the people remains imperfect, elementary and cloudy.",
+      author: "Frantz Fanon",
+      source: "The Wretched of the Earth, 1961",
+    },
+    {
+      quote:
+        "The history of education shows that every class which has sought to take power has prepared itself for power by an autonomous education. The first step in emancipating oneself from political and social slavery is that of freeing the mind… The problem of education is the most important class problem.",
+      author: "Antonio Gramsci",
+      source:
+        "cited in Davidson's Antonio Gramsci: Towards an Intellectual Biography, 1977",
+    },
+    {
+      quote:
+        "Life and knowledge must be liberated from the sway of capital, from the yoke of the bourgeoisie. The teachers must not confine themselves to narrow pedagogical duties; they must join forces with the entire body of the embattled working people.",
+      author: "Vladimir Lenin",
+      source:
+        "Speech Delivered At The First All-Russia Congress Of Internationalist Teachers, 1918",
+    },
+  ];
+
+  function rotate(quotes) {
+    quotes.forEach((quoteContent, i) => {
+      console.log(i);
+      if (i > 0) {
+        const quoteContainer = document.getElementById("quotes-container");
+        const quoteEl = document.createElement("p");
+        quoteEl.classList.add("quote-el");
+        quoteEl.classList.add(`quote-${i}`);
+        quoteEl.style = "display: none;";
+        quoteEl.classList.add("fade-in");
+        quoteEl.textContent = `${quoteContent.quote}`;
+        quoteContainer.appendChild(quoteEl);
+      }
+    });
+
+    // now all quotes are initiated,
+    // for each with setTimeouts to display block,
+    // for each with setTimeouts to remove fade in and add fade out to display none (x10K time, to create a 5 sec gap)
+
+    quotes.forEach((quoteContent, i) => {
+      if (i === 1) {
+        const quoteEl = document.querySelector(`.quote-${i}`);
+        quoteEl.style = "display: block";
+      }
+
+      if (i > 1) {
+        const quoteEl = document.querySelector(`.quote-${i}`);
+        setTimeout(() => {
+          quoteEl.style = "display: block";
+        }, i * 5000);
+      }
+    });
+
+    quotes.forEach((quoteContent, i) => {
+      if (i > 0) {
+        const quoteEl = document.querySelector(`.quote-${i}`);
+        setTimeout(() => {
+          quoteEl.classList.remove("fade-in");
+          quoteEl.classList.add("fade-out");
+          quoteEl.style = "display: none;";
+        }, i * 5000 + 5000);
+      }
+    });
+
+    quotes.forEach((quoteContent, i) => {
+      if (i > 0) {
+        const quoteEl = document.querySelector(`.quote-${i}`);
+        setTimeout(() => {
+          quoteEl.style = "display: none;";
+        }, i * 5000 + 5400);
+      }
+    });
+  }
+
+  // Gets called when page loads and whenever the rotate function is on the last quote
+  function initRotateQuotes() {
+    console.log(quotes);
+    rotate(quotes);
+  }
+  // initially starts the rotation on page load
+  initRotateQuotes();
+
+  // contains all the quotes in an array
+  // script that runs through every item in array
+  // 1. create a paragraph with the quote's content
+  // 2. fade it in
+  // 3. wait 5 sec
+  // 4. fade it out, and start over with the next quote
+  // 5. if the index is the last one, start over.
+</script>
