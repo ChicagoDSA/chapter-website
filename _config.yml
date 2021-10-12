@@ -98,6 +98,14 @@ defaults:
       path: _branches/en
     values:
       permalink: branches/:title
+  - scope:
+      path: _political-education/en
+    values:
+      permalink: political-education/:title
+  - scope:
+      path: _programs/en
+    values:
+      permalink: political-education/programs/:title
 
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
@@ -118,4 +126,8 @@ collections:
   posts:
     output: true
   branches:
+    output: true
+  political-education:
+    output: true
+  programs:
     output: true

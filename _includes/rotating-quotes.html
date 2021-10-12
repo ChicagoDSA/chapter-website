@@ -1,0 +1,173 @@
+<style>
+  .quote-el {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: fit-content;
+  }
+
+  .fade-in {
+    animation: fadeIn 0.3s;
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .fade-out {
+    animation: fadeOut 0.3s;
+  }
+  @keyframes fadeOut {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+</style>
+<div
+  class="outer-quotes-container"
+  style="
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(233, 29, 35, 0.2);
+    padding: 15px 15px 0 15px;
+    border-radius: 5px;
+  "
+>
+  <div id="quotes-container" style="position: relative; width: 100%"></div>
+</div>
+<script>
+  const quotes = [
+    {
+      quote: null,
+      author: null,
+      source: null,
+    },
+    {
+      quote:
+        "And one day we must ask the question: Why are there forty million poor people in America? And when you begin to ask that question, you are raising questions about the economic system, about a broader distribution of wealth. When you ask that question, you begin to question the capitalistic economy.",
+      author: "Dr. Martin Luther King Jr.",
+      source: "speech to the Southern Christian Leadership Conference, 1967",
+    },
+    {
+      quote:
+        "We have to talk about liberating minds as well as liberating society.",
+      author: "Angela Davis",
+      source: "",
+    },
+    {
+      quote:
+        "In moments of great peril it is easy to muster a powerful response with moral incentives. Retaining their effectiveness, however, requires the development of a consciousness in which there is a new scale of values. Society as a whole must be converted into a gigantic school.",
+      author: "Che Guevara",
+      source: "Socialism and Man in Cuba, 1965",
+    },
+    {
+      quote:
+        "To tell the truth, to arrive together at the truth, is a communist and revolutionary act.",
+      author: "Antonio Gramsci",
+      source: "Letter from prison, 1919",
+    },
+    {
+      quote:
+        "People must know where they are going, and why…. The future remains a closed book so long as the consciousness of the people remains imperfect, elementary and cloudy.",
+      author: "Frantz Fanon",
+      source: "The Wretched of the Earth, 1961",
+    },
+    {
+      quote:
+        "The history of education shows that every class which has sought to take power has prepared itself for power by an autonomous education. The first step in emancipating oneself from political and social slavery is that of freeing the mind… The problem of education is the most important class problem.",
+      author: "Antonio Gramsci",
+      source:
+        "cited in Davidson's Antonio Gramsci: Towards an Intellectual Biography, 1977",
+    },
+    {
+      quote:
+        "Life and knowledge must be liberated from the sway of capital, from the yoke of the bourgeoisie. The teachers must not confine themselves to narrow pedagogical duties; they must join forces with the entire body of the embattled working people.",
+      author: "Vladimir Lenin",
+      source:
+        "Speech Delivered At The First All-Russia Congress Of Internationalist Teachers, 1918",
+    },
+    {
+      quote: "The educator has the duty of not being neutral.",
+      author: "Paulo Freire",
+      source:
+        "We Make the Road By Walking: Conversations on Education and Social Change, 1990",
+    },
+    {
+      quote:
+        "Socialism in life demands a complete spiritual transformation in the masses degraded by centuries of bourgeois rule. Social instincts in place of egotistical ones, mass initiative in place of inertia, idealism which conquers all suffering, etc., etc.",
+      author: "Rosa Luxemburg",
+      source: "The Mass Strike, 1906",
+    },
+  ];
+
+  // { quote: "", author: "", source: "" },
+
+  function createQuotes() {
+    quotes.forEach((quoteContent, i) => {
+      if (i > 0) {
+        const quoteContainer = document.getElementById("quotes-container");
+        const quoteEl = document.createElement("div");
+        quoteEl.classList.add("quote-el");
+        quoteEl.style = "display: none;";
+
+        const quoteTextEl = document.createElement("p");
+        const quoteTextEmEl = document.createElement("em");
+        quoteTextEmEl.textContent = `${quoteContent.quote}`;
+        quoteTextEl.appendChild(quoteTextEmEl);
+        quoteEl.appendChild(quoteTextEl);
+
+        const authorTextEl = document.createElement("p");
+        const authorTextStrongEl = document.createElement("strong");
+        const authorTextSourceEl = document.createElement("span");
+        authorTextStrongEl.textContent = `- ${quoteContent.author}`;
+        if (quoteContent.source.length > 0) {
+          authorTextSourceEl.textContent = `, ${quoteContent.source}`;
+        }
+        authorTextEl.appendChild(authorTextStrongEl);
+        authorTextEl.appendChild(authorTextSourceEl);
+        quoteEl.appendChild(authorTextEl);
+
+        quoteContainer.appendChild(quoteEl);
+      }
+    });
+  }
+
+  function rotate() {
+    const quoteContainer = document.getElementById("quotes-container");
+    const quoteEls = Array.from(document.getElementsByClassName("quote-el"));
+    quoteEls.forEach((quoteEl, i) => {
+      setTimeout(() => {
+        quoteEl.classList.remove("fade-out");
+        quoteEl.classList.add("fade-in");
+        quoteEl.style = "display: block; margin-top: -1em";
+        quoteContainer.style.height = `${quoteEl.offsetHeight}px`;
+      }, i * 6000);
+      setTimeout(() => {
+        quoteEl.classList.remove("fade-in");
+        quoteEl.classList.add("fade-out");
+      }, i * 6000 + 6000);
+      setTimeout(() => {
+        quoteEl.style = "display: none;";
+      }, i * 6000 + 6300);
+    });
+  }
+
+  // Gets called when page loads and whenever the rotate function is on the last quote
+  function initRotateQuotes() {
+    createQuotes();
+    rotate();
+    setInterval(() => {
+      rotate();
+    }, (quotes.length - 2) * 6000 + 6300);
+  }
+  // initially starts the rotation on page load
+  initRotateQuotes();
+</script>
