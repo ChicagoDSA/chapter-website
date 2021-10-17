@@ -2,7 +2,7 @@ chapter:
   url:
   facebook: https://www.facebook.com/ChicagoDemSocialists/
   instagram: https://www.instagram.com/chicagodsa/
-  twitter: https://twitter.com/ChicagoCityDSA
+  twitter: https://twitter.com/chicagodsa
   # Override DSA national logos
   header-logo-svg: "images/CDSA-logo-color.svg"
   header-logo-png-fallback: "images/CDSA-logo-color.png" # 360px square recommended
