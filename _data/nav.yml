@@ -39,6 +39,10 @@ elements:
           url:
             en: images/cdsa-bylaws.pdf
             es: images/cdsa-bylaws.pdf
+#       - page:
+#           en: Political education
+#           url:
+#             en: political-education
   - page:
       en: Events
       es: Eventos
@@ -64,7 +68,7 @@ elements:
       - page:
           en: Twitter
           url:
-            default: https://twitter.com/ChicagoCityDSA
+            default: https://twitter.com/chicagodsa
   - page:
       en: Store
       url:
