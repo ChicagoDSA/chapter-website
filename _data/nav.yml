@@ -39,10 +39,10 @@ elements:
           url:
             en: images/cdsa-bylaws.pdf
             es: images/cdsa-bylaws.pdf
-      - page:
-          en: Political education
-          url:
-            en: political-education
+#       - page:
+#           en: Political education
+#           url:
+#             en: political-education
   - page:
       en: Events
       es: Eventos
