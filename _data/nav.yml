@@ -39,6 +39,10 @@ elements:
           url:
             en: images/cdsa-bylaws.pdf
             es: images/cdsa-bylaws.pdf
+      - page:
+          en: Endorsements
+          url:
+            en: endorsements
 #       - page:
 #           en: Political education
 #           url:
