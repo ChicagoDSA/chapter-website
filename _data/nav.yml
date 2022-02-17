@@ -76,7 +76,7 @@ elements:
   - page:
       en: Store
       url:
-        default: https://chicagodsa.square.site/s/shop
+        default: https://chicagodsa.myshopify.com/
   - page:
       en: Donate
       url:
