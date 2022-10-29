@@ -1,0 +1,60 @@
+<!-- a collection gets passed in -->
+<div>
+  {% assign collection = site.[include.collection] | sort: "order" %} {% for
+  item in collection %}
+  <div class="alder-outer-container">
+    <span><strong>{{item.name}}</strong></span>
+    <div class="alder-inner-container">
+      <picture>
+        <source
+          srcset="{{ item.image | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}"
+          type="image/webp"
+        />
+        <img
+          loading="lazy"
+          src="{{item.image}}"
+          alt="Alderperson headshot."
+          width="225px"
+        />
+      </picture>
+      <!-- text -->
+      {{item.content}}
+    </div>
+    <div style="padding-top: 5px">
+      <a
+        class="social"
+        href="{{ item.twitter }}"
+        style="text-decoration: none"
+        target="_blank"
+      >
+        <i
+          class="fab fa-twitter"
+          style="
+            background-color: #1da1f2;
+            color: white;
+            font-size: 1.125rem;
+            padding: 5px;
+            border-radius: 6px;
+          "
+        ></i>
+      </a>
+      <a
+        href="{{ item.website }}"
+        style="text-decoration: none"
+        target="_blank"
+      >
+        <i
+          class="fas fa-link"
+          style="
+            background-color: white;
+            color: grey;
+            font-size: 1.125rem;
+            padding: 5px;
+            border-radius: 6px;
+          "
+        ></i>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
