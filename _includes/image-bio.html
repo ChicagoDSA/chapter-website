@@ -1,9 +1,14 @@
 <!-- a collection gets passed in -->
 <div>
-  {% assign collection = site.[include.collection] | sort: "order" %} {% for
-  item in collection %}
+  {% assign collection = site.[include.collection] %} {% for item in collection
+  %}
   <div class="alder-outer-container">
-    <span><strong>{{item.name}}</strong></span>
+    <p>
+      <strong
+        ><span style="color: #ec1f27">{{item.name | upcase}}</span> |
+        {{item.candidate-details}}</strong
+      >
+    </p>
     <div class="alder-inner-container">
       <picture>
         <source
@@ -22,27 +27,11 @@
     </div>
     <div style="padding-top: 5px">
       <a
-        class="social"
-        href="{{ item.twitter }}"
-        style="text-decoration: none"
-        target="_blank"
-      >
-        <i
-          class="fab fa-twitter"
-          style="
-            background-color: #1da1f2;
-            color: white;
-            font-size: 1.125rem;
-            padding: 5px;
-            border-radius: 6px;
-          "
-        ></i>
-      </a>
-      <a
         href="{{ item.website }}"
         style="text-decoration: none"
         target="_blank"
       >
+        <b style="color: #ec1f27"> Learn More About {{item.name}} </b>
         <i
           class="fas fa-link"
           style="

@@ -131,11 +131,5 @@ collections:
     output: true
   programs:
     output: true
-  candidates:
+  candidates-2023:
     output: false
-    order:
-      # - carlos-ramirez-rosa.md
-      # - byron-sigcho-lopez.md
-      # - jeanette-taylor.md
-      # - rossana-rodriguez-sanchez.md
-      - daniel-la-spata.md
