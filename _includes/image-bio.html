@@ -3,11 +3,13 @@
   {% assign collection = site.[include.collection] %} {% for item in collection
   %}
   <div class="alder-outer-container">
-    <p>
+    <p style="margin-bottom: 0">
       <strong
-        ><span style="color: #ec1f27">{{item.name | upcase}}</span> |
-        {{item.candidate-details}}</strong
-      >
+        ><span style="color: #ec1f27">{{item.name | upcase}}</span>
+      </strong>
+    </p>
+    <p style="margin-top: 0px">
+      <strong> {{item.candidate-details}}</strong>
     </p>
     <div class="alder-inner-container">
       <picture>
@@ -23,7 +25,7 @@
         />
       </picture>
       <!-- text -->
-      <p>{{item.content}}</p>
+      <p style="margin-top: 0px">{{item.content}}</p>
     </div>
     <div style="padding-top: 5px">
       <a
