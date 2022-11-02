@@ -1,0 +1,51 @@
+<!-- a collection gets passed in -->
+<div>
+  {% assign collection = site.[include.collection] %} {% for item in collection
+  %}
+  <div class="alder-outer-container">
+    <p style="margin-bottom: 0">
+      <strong
+        ><span style="color: #ec1f27">{{item.name | upcase}}</span>
+      </strong>
+    </p>
+    <p style="margin-top: 0px">
+      <strong> {{item.candidate-details}}</strong>
+    </p>
+    <div class="alder-inner-container">
+      <picture>
+        <source
+          srcset="{{ item.image | relative_url | replace:'.png','.webp' | replace:'.jpg','.webp' }}"
+          type="image/webp"
+        />
+        <img
+          loading="lazy"
+          src="{{item.image}}"
+          alt="Alderperson headshot."
+          width="225px"
+        />
+      </picture>
+      <!-- text -->
+      <p style="margin-top: 0px">{{item.content}}</p>
+    </div>
+    <div style="padding-top: 5px">
+      <a
+        href="{{ item.website }}"
+        style="text-decoration: none"
+        target="_blank"
+      >
+        <b style="color: #ec1f27"> Learn More About {{item.name}} </b>
+        <i
+          class="fas fa-link"
+          style="
+            background-color: white;
+            color: grey;
+            font-size: 1.125rem;
+            padding: 5px;
+            border-radius: 6px;
+          "
+        ></i>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
