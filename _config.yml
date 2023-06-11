@@ -133,3 +133,5 @@ collections:
     output: true
   candidates-2023:
     output: false
+  in-office:
+    output: false
