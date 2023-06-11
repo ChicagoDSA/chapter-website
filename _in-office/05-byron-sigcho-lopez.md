@@ -1,6 +1,6 @@
 ---
 name: Bryon Sigcho-Lopez
-candidate-details: Incumbent Alderman for the 25th Ward
+candidate-details: Alderman for the 25th Ward
 image: images/byron-sigcho.png
 website: https://www.25thward.org/
 ---

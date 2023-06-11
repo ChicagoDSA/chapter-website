@@ -1,6 +1,6 @@
 ---
 name: Angela Clay
-candidate-details: Aldermanic Candidate for the 46th Ward
+candidate-details: Alderwoman for the 46th Ward
 image: images/angela-clay.png
 website: https://angelafor46.com/
 ---

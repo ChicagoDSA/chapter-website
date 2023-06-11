@@ -1,6 +1,6 @@
 ---
 name: Carlos Ramirez-Rosa
-candidate-details: Incumbent Alderman for the 35th Ward
+candidate-details: Alderman for the 35th Ward
 image: images/carlos-ramirez.jpg
 website: https://www.carlosrosa.org/
 ---

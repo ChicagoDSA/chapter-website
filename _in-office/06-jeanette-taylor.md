@@ -1,6 +1,6 @@
 ---
 name: Jeanette Taylor
-candidate-details: Incumbent Alderwoman for the 20th Ward
+candidate-details: Alderwoman for the 20th Ward
 image: images/jeanette-taylor.png
 website: http://jeanettebtaylor.com/
 ---

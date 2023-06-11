@@ -1,6 +1,6 @@
 ---
 name: Rossana Rodriguez-Sanchez
-candidate-details: Incumbent Alderwoman for the 33rd Ward
+candidate-details: Alderwoman for the 33rd Ward
 image: images/rossana-rodriguez.png
 website: https://www.rossanafor33.org/
 ---

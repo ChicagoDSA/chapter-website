@@ -1,6 +1,6 @@
 ---
 name: Daniel La Spata
-candidate-details: Incumbent Alderman for the 1st Ward
+candidate-details: Alderman for the 1st Ward
 image: images/daniel-laspata.png
 website: https://www.the1stward.com/
 ---
