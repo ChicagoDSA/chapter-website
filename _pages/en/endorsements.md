@@ -3,9 +3,9 @@ lang-ref: endorsements
 title: Electoral Endorsements
 ---
 
-**Chicago DSA is now accepting applications for endorsement for March 2024 Primary Elections.  Applications for March 2024 Primary endorsements must be turned in by 11:59 pm on October 22nd, 2023.  Please reach out to the Electoral Working Group at electoral@chicagodsa.org for a copy of the questionnaire or if you have any questions about endorsements.**
+**Chicago DSA is now accepting applications for endorsement for March 2024 Primary Elections.  Applications for March 2024 Primary endorsements must be turned in by 11:59 pm on October 22nd, 2023.  Please reach out to the Electoral Working Group at <electoral@chicagodsa.org> for a copy of the questionnaire or if you have any questions about endorsements.**
 
-**If you are considering running in a different election, please review the information below and reach out to electoral@chicagodsa.org if you have any questions.**
+**If you are considering running in a different election, please review the information below and reach out to <electoral@chicagodsa.org> if you have any questions.**
 
 ---
 #### What campaigns will Chicago DSA consider endorsing? 
@@ -17,7 +17,7 @@ Democratic Socialists have helped elect alderpeople, local school council member
 #### How does our endorsement process work?
 Chicago DSA democratically decides on campaigns we endorse in election cycles. Because of this, the endorsement process is completed 1-2 months after the endorsement application deadline.  In general, Chicago DSA follows the below process for considering endorsements:
 
-1. Candidates seeking endorsement must fill out and return a candidate questionnaire to the Electoral Working Group by a set deadline. This deadline is set by the Electoral Working Group and depends on the election schedules, and whether endorsements are requested in time for petition season (‘pre-petition’ endorsement) or later on, closer to election day (‘post-petition’ endorsement). The questionnaire can be requested by emailing the Chicago DSA Electoral Working Group at electoral@chicagodsa.org.
+1. Candidates seeking endorsement must fill out and return a candidate questionnaire to the Electoral Working Group by a set deadline. This deadline is set by the Electoral Working Group and depends on the election schedules, and whether endorsements are requested in time for petition season (‘pre-petition’ endorsement) or later on, closer to election day (‘post-petition’ endorsement). The questionnaire can be requested by emailing the Chicago DSA Electoral Working Group at <electoral@chicagodsa.org>.
 
 2. The Electoral Working Group reviews candidate questionnaires and then votes on whether to bring each candidate in for an interview. 
 
@@ -25,4 +25,4 @@ Chicago DSA democratically decides on campaigns we endorse in election cycles. B
 
 4. Finally, the entire chapter votes on endorsement, and candidates are notified of the result.
 
-**Are you a member of Chicago DSA and are looking for a way to further the cause of democratic socialism in your community? We invite you to consider running for a parent, community or staff member seat on your Local School Council as a part of our Green and Healthy Schools platform. If interested, please email us at electoral@chicagodsa.org to get involved.**
+**Are you a member of Chicago DSA and are looking for a way to further the cause of democratic socialism in your community? We invite you to consider running for a parent, community or staff member seat on your Local School Council as a part of our Green and Healthy Schools platform. If interested, please email us at <electoral@chicagodsa.org> to get involved.**
