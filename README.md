@@ -4,7 +4,7 @@ This site uses the [Haymarket](https://github.com/ChicagoDSA/haymarket) theme.
 
 ## Contributing & branching info
 
-The two primary branches in this repo are `prod` and `staging`. When making contributions, always branch off of and merge back into staging first. The staging branch is [deployed here](https://cdsa-staging.netlify.app/) via Netlify, and after merging your changes, they will automatically deploy to that link. Once changes are verified and stable, `staging` can then be merged into `prod` which is deployed via GitHub pages. For access to the staging instance on Netlify, reach out to @nickharriscodes here on Github or in the CDSA slack. 
+The two primary branches in this repo are `prod` and `staging`. When making contributions, always branch off of and merge back into staging first. The staging branch is [deployed here](https://cdsa-staging.netlify.app/) via Netlify, and after merging your changes, they will automatically deploy to that link. Once changes are verified and stable, `staging` can then be merged into `prod` which is deployed via GitHub pages. For access to the staging instance on Netlify, reach out to @nickharrisdev here on Github or in the CDSA slack. 
 
 ## Running Locally
 
