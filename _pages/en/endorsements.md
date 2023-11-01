@@ -3,9 +3,9 @@ lang-ref: endorsements
 title: Electoral Endorsements
 ---
 
-**Chicago DSA is now accepting applications for endorsement for March 2024 Primary Elections.  Applications for March 2024 Primary endorsements must be turned in by 11:59 pm on October 22nd, 2023.  Please reach out to the Electoral Working Group at <electoral@chicagodsa.org> for a copy of the questionnaire or if you have any questions about endorsements.**
+**Chicago DSA is no longer accepting applications for endorsement for March 2024 Primary Elections.** 
 
-**If you are considering running in a different election, please review the information below and reach out to <electoral@chicagodsa.org> if you have any questions.**
+**If you are a primary election winner and are interested in seeking endorsement from Chicago DSA for the 2024 General Election, please review the information below and reach out to <electoral@chicagodsa.org> if you have any questions.**
 
 ---
 #### What campaigns will Chicago DSA consider endorsing? 
