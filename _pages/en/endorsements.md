@@ -3,6 +3,21 @@ lang-ref: endorsements
 title: Electoral Endorsements
 ---
 
+**Are you a member of Chicago DSA who is looking to get more involved in your local schools? Are you looking for ways to have a direct, positive impact in your neighborhood and the issues we fight for as democratic socialists?**
+
+**We urge you to consider running for a parent, community or staff member seat on your Local School Council** as a part of our Green and Healthy Schools platform.
+
+The Electoral Working Group’s Steering Committee published an [op-ed](https://midwestsocialist.com/2023/09/08/local-school-councils-and-the-september-gcm) in Midwest Socialist detailing:
+
+- What Local School Councils are
+
+- What power they have
+
+- How we believe they can build working class activism
+
+
+**If you’re interested in running for an LSC position, we recommend reading our op-ed and emailing us at <electoral@chicagodsa.org> to get involved.**
+
 **Chicago DSA is no longer accepting applications for endorsement for March 2024 Primary Elections.** 
 
 **If you are a primary election winner and are interested in seeking endorsement from Chicago DSA for the 2024 General Election, please review the information below and reach out to <electoral@chicagodsa.org> if you have any questions.**
@@ -24,5 +39,3 @@ Chicago DSA democratically decides on campaigns we endorse in election cycles. B
 3. The Electoral Working Group then votes on whether to advance interviewed candidates to the general membership for a vote on endorsement. Candidates not advanced by the Electoral Working Group may also be advanced by a vote of the Executive Committee of Chicago DSA.
 
 4. Finally, the entire chapter votes on endorsement, and candidates are notified of the result.
-
-**Are you a member of Chicago DSA and are looking for a way to further the cause of democratic socialism in your community? We invite you to consider running for a parent, community or staff member seat on your Local School Council as a part of our Green and Healthy Schools platform. If interested, please email us at <electoral@chicagodsa.org> to get involved.**
