@@ -18,6 +18,8 @@ The Electoral Working Group’s Steering Committee published an [op-ed](https://
 
 **If you’re interested in running for an LSC position, we recommend reading our op-ed and emailing us at <electoral@chicagodsa.org> to get involved.**
 
+---
+
 **Chicago DSA is no longer accepting applications for endorsement for March 2024 Primary Elections.** 
 
 **If you are a primary election winner and are interested in seeking endorsement from Chicago DSA for the 2024 General Election, please review the information below and reach out to <electoral@chicagodsa.org> if you have any questions.**
