@@ -1,11 +1,12 @@
 ---
 lang-ref: endorsements
 title: Electoral Endorsements
+# image: images/banner-megaphone-dolores-huerta.png
 ---
 
 **Chicago DSA proudly endorses and joins the [Bring Chicago Home coalition](https://www.bringchicagohome.org).**
 
-On March 19th, Chicagoans have the opportunity to vote to restructure the Real Estate Transfer Tax(RETT), a one-time tax on properties when they are sold, to create substantial, legal, and dedicated funding to provide permanent, affordable housing for unhoused Chicagoans.
+**On March 19th**, Chicagoans have the opportunity to vote to **restructure the Real Estate Transfer Tax(RETT)**, a one-time tax on properties when they are sold, to create substantial, legal, and dedicated funding to **provide permanent, affordable housing** for unhoused Chicagoans.
 
 In a nutshell, by voting YES for Ballot Question 1, Chicagoans tell City Council they want the following:
 
@@ -15,11 +16,11 @@ In a nutshell, by voting YES for Ballot Question 1, Chicagoans tell City Council
 
 Why is it that 68,000 of our neighbors are experiencing homelessness in the third-largest city of the richest country in the world? Homelessness is not inevitable, nor a moral failing; it is the result of an economic system that turns a basic human right - shelter - into a commodity to be traded like poker chips for private profit by corporations and the 1%.
 
-As socialists, we believe that housing is a human right. Any system built on extreme inequalities of wealth and power is unjust and unsustainable. We believe the best way to address the root cause of inequality is to redistribute wealth and power away from a tiny, wealthy minority, and back into the hands of the working class majority.
+As socialists, we believe that **housing is a human right**. Any system built on extreme inequalities of wealth and power is unjust and unsustainable. We believe the best way to address the root cause of inequality is to **redistribute wealth and power away** from a tiny, wealthy minority, and back into the hands of the working class majority.
 
-About 4.2% of properties - many of them corporate-owned office buildings, and not individual homes - sold every year will see a sales tax increase should Ballot Question 1 for Bring Chicago Home pass. This initiative will generate over $100 million annually to provide permanent, affordable housing and additional services to help house and support our unhoused neighbors.
+About 4.2% of properties - many of them corporate-owned office buildings, and not individual homes - sold every year will see a sales tax increase should Ballot Question 1 for Bring Chicago Home pass. This initiative will **generate over $100 million annually** to provide permanent, affordable housing and additional services to **help house and support our unhoused neighbors**.
 
-We urge you to join us and the Bring Chicago Home coalition in knocking doors, making phone calls to get out the vote, and making a personal plan to vote in Chicago’s March 19th Primary.
+We urge you to join us and the **Bring Chicago Home** coalition in **knocking doors, making phone calls to get out the vote, and making a personal plan to vote in Chicago’s March 19th Primary**.
 
 To get involved:
 
