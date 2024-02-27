@@ -1,12 +1,12 @@
 ---
 lang-ref: endorsements
 title: Electoral Endorsements
-# image: images/banner-megaphone-dolores-huerta.png
+image: images/CDSA-endorsement-hero.webp
 ---
 
 **Chicago DSA proudly endorses and joins the [Bring Chicago Home coalition](https://www.bringchicagohome.org).**
 
-**On March 19th**, Chicagoans have the opportunity to vote to **restructure the Real Estate Transfer Tax(RETT)**, a one-time tax on properties when they are sold, to create substantial, legal, and dedicated funding to **provide permanent, affordable housing** for unhoused Chicagoans.
+**On March 19th**, Chicagoans have the opportunity to vote to **restructure the Real Estate Transfer Tax** (RETT), a one-time tax on properties when they are sold, to create substantial, legal, and dedicated funding to **provide permanent, affordable housing** for unhoused Chicagoans.
 
 In a nutshell, by voting YES for Ballot Question 1, Chicagoans tell City Council they want the following:
 

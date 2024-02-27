@@ -27,7 +27,7 @@ paginate_path: "updates/page:num/"
 # Site configuration for the WebP Generator Plugin
 # The values here represent the defaults if nothing is set
 webp:
-  enabled: false
+  enabled: true
 
   # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
   quality: 75
