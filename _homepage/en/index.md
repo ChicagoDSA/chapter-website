@@ -12,9 +12,9 @@ redirect_from:
 
 DSA is the largest socialist organization in the United States. As an entirely volunteer-run, member-driven organization, the Chicago chapter organizes [campaigns](campaigns) to empower the working class, build [rank-and-file labor](labor), and provide political education. Our commitment to AfroSOC centers BIPOC communities and voices.
 
-## Campaigns
+## Priority Campaigns
 
-{% include list-tiles.html collection="campaigns" %}
+<!-- {% include list-tiles.html collection="campaigns" %} -->
 
 [Read about CDSA campaigns and why we take them on](campaigns)
 
