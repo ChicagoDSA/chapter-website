@@ -1,8 +1,9 @@
 ---
 lang-ref: west-cook
 title: West Cook Branch
-image: images/west-cook-branch.jpg
 ---
+
+{% include comp-full-width-image.html image='/images/west-cook-branch.jpg' %}
 
 ## Mission
 
