@@ -23,7 +23,6 @@ Every Monday, we receive a list of new members. We use this to:
 
 - Add folks to our Sunday newsletter, _This Week in CDSA_
 - Send time-sensitive text messages and emails
-- Verify access to our Slack workspace
 
 {% capture note %}
 
