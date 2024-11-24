@@ -20,7 +20,7 @@ We believe that working people should run both the economy and society democrati
 
 {% include comp-full-width-image.html image='/images/landing-page-photo.webp' credit='Zach Caddy' %}
 
-DSA is the largest socialist organization in the United States. As an entirely volunteer-run, member-driven organization, Chicago DSA organizes campaigns to empower the working class, build rank-and-file labor, and provide political education.
+DSA is the largest socialist organization in the United States. As an entirely volunteer-run, member-driven organization, Chicago DSA runs campaigns to empower the working class, organizes to build rank-and-file labor power, and provides political education.
 
 To help fund our struggle against the barbarism of capitalism, please consider [joining DSA](join), if you aren't already a member, and [donating](donate) directly to our chapter. Every member we have and every dollar we raise helps fund your fight for a better tomorrow and the beautiful, socialist city we deserve. Contributions or gifts to Chicago Democratic Socialists of America are not tax deductible.
 
