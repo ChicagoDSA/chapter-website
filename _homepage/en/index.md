@@ -24,6 +24,8 @@ DSA is the largest socialist organization in the United States. As an entirely v
 
 To help fund our struggle against the barbarism of capitalism, please consider [joining DSA](join), if you aren't already a member, and [donating](donate) directly to our chapter. Every member we have and every dollar we raise helps fund your fight for a better tomorrow and the beautiful, socialist city we deserve. Contributions or gifts to Chicago Democratic Socialists of America are not tax deductible.
 
+**Questions?** Contact the chapter Steering Committee at [leadership@chicagodsa.org](mailto:leadership@chicagodsa.org). 
+
 {% include comp-button.html text="Priority campaigns" link="/campaigns" %}
 
 <!-- {% include list-tiles.html collection="campaigns" %} -->
