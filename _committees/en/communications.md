@@ -7,6 +7,8 @@ image: images/banner-megaphone-dolores-huerta.png
 
 The Communications Committee handles a broad range of projects and responsibilities that keep our chapter running smoothly. We run the various Chicago DSA social media pages and websites. We have a video team to support live-streaming and documentation of various chapter campaigns and events. Within the committee is a team that produces Midwest Socialist, a magazine and podcast covering a broad range of topics from a socialist perspective.
 
+**Questions?** Contact the Communications Committee at [communications@chicagodsa.org](mailto:communications@chicagodsa.org).
+
 ## Get involved
 
 Join an upcoming meeting to learn more about how you can get involved supporting the communication and media efforts of CDSA.
