@@ -91,9 +91,9 @@ defaults:
     values:
       permalink: campaigns/:title
   - scope:
-      path: _working-groups/en
+      path: _committees/en
     values:
-      permalink: working-groups/:title
+      permalink: committees/:title
   - scope:
       path: _branches/en
     values:
@@ -122,6 +122,8 @@ collections:
   campaigns:
     output: true
   working-groups:
+    output: true
+  committees:
     output: true
   posts:
     output: true
