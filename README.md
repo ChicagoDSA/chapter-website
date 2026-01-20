@@ -1,3 +1,6 @@
+# THIS PROJECT HAS BEEN DEPRECATED as of 2025
+
+---
 # Chapter website
 
 This site uses the [Haymarket](https://github.com/ChicagoDSA/haymarket) theme.
